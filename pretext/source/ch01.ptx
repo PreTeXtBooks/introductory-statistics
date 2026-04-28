@@ -1727,7 +1727,7 @@
         <title>Air pollution and birth outcomes, scope of inference</title>
         <statement>
           <p>
-            Exercise <xref ref="ex-air-pollution-components"/> introduces a study where researchers 
+            <xref ref="ex-air-pollution-components"/> introduces a study where researchers 
 collected data to examine the relationship between air pollutants and preterm 
 births in Southern California. During the study air pollution levels were 
 measured by air quality monitoring stations. Length of gestation data were 
@@ -1754,7 +1754,7 @@ population, and if the findings of the study can be used to establish causal rel
         <title>Cheaters, scope of inference</title>
         <statement>
           <p>
-            Exercise <xref ref="ex-cheaters-components"/> introduces a study where researchers 
+            <xref ref="ex-cheaters-components"/> introduces a study where researchers 
 studying the relationship between honesty, age, and self-control conducted an 
 experiment on 160 children between the ages of 5 and 15. The researchers asked 
 each child to toss a fair coin in private and to record the outcome (white or black) 
@@ -1785,7 +1785,7 @@ relationships.
         <title>Buteyko method, scope of inference</title>
         <statement>
           <p>
-            Exercise <xref ref="ex-buteyko-components"/> introduces a study on using the Buteyko 
+            <xref ref="ex-buteyko-components"/> introduces a study on using the Buteyko 
 shallow breathing technique to reduce asthma symptoms and improve quality of life.
 As part of this study 600 asthma patients aged 18-69 who relied on medication for 
 asthma treatment were recruited and randomly assigned to two groups: one practiced 
@@ -1814,7 +1814,7 @@ relationships.
         <title>Stealers, scope of inference</title>
         <statement>
           <p>
-            Exercise <xref ref="ex-stealers-components"/> introduces a study on the relationship 
+            <xref ref="ex-stealers-components"/> introduces a study on the relationship 
 between socio-economic class and unethical behavior. As part of this study 129 
 University of California Berkeley undergraduates were asked to identify themselves 
 as having low or high social-class by comparing themselves to others with the most 
