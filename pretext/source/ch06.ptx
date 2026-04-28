@@ -141,7 +141,7 @@
       </assemblage>
       
       <p>
-        For additional one-proportion confidence interval examples, see Section<nbsp/>5.2.
+        For additional one-proportion confidence interval examples, see 5.2.
       </p>
     </subsection>
     
@@ -185,7 +185,7 @@
       <example xml:id="ex-payday-ht">
         <statement>
           <p>
-            Using the hypotheses and data from Guided Practice<nbsp/><xref ref="paydayCC_hypotheses_gp"/> and<nbsp/><xref ref="paydayCC_conditions_gp"/>, evaluate whether the poll provides convincing evidence that a majority of payday loan borrowers support a new regulation that would require lenders to pull credit reports and evaluate debt payments.
+            Using the hypotheses and data from <nbsp/><xref ref="paydayCC_hypotheses_gp"/> and<nbsp/><xref ref="paydayCC_conditions_gp"/>, evaluate whether the poll provides convincing evidence that a majority of payday loan borrowers support a new regulation that would require lenders to pull credit reports and evaluate debt payments.
           </p>
         </statement>
         <solution>
@@ -240,7 +240,7 @@
       </assemblage>
       
       <p>
-        For additional one-proportion hypothesis test examples, see Section<nbsp/>5.3.
+        For additional one-proportion hypothesis test examples, see 5.3.
       </p>
     </subsection>
     
@@ -251,13 +251,13 @@
         We've spent a lot of time discussing conditions for when <m>\hat{p}</m> can be reasonably modeled by a normal distribution. What happens when the success-failure condition fails? What about when the independence condition fails? In either case, the general ideas of confidence intervals and hypothesis tests remain the same, but the strategy or technique used to generate the interval or p-value change.
       </p>
       <p>
-        When the success-failure condition isn't met for a hypothesis test, we can simulate the null distribution of <m>\hat{p}</m> using the null value, <m>p_0</m>. The simulation concept is similar to the ideas used in the malaria case study presented in Section<nbsp/>5.1, and an online section outlines this strategy: <url href="http://www.openintro.org/r?go=stat_sim_prop_ht">www.openintro.org/r?go=stat_sim_prop_ht</url>
+        When the success-failure condition isn't met for a hypothesis test, we can simulate the null distribution of <m>\hat{p}</m> using the null value, <m>p_0</m>. The simulation concept is similar to the ideas used in the malaria case study presented in 5.1, and an online section outlines this strategy: <url href="http://www.openintro.org/r?go=stat_sim_prop_ht">www.openintro.org/r?go=stat_sim_prop_ht</url>
       </p>
       <p>
         For a confidence interval when the success-failure condition isn't met, we can use what's called the <term>Clopper-Pearson interval</term>. The details are beyond the scope of this book. However, there are many internet resources covering this topic.
       </p>
       <p>
-        The independence condition is a more nuanced requirement. When it isn't met, it is important to understand how and why it isn't met. For example, if we took a cluster sample (see Section<nbsp/>1.3), suitable statistical methods are available but would be beyond the scope of even most second or third courses in statistics. On the other hand, we'd be stretched to find any method that we could confidently apply to correct the inherent biases of data from a convenience sample.
+        The independence condition is a more nuanced requirement. When it isn't met, it is important to understand how and why it isn't met. For example, if we took a cluster sample (see 1.3), suitable statistical methods are available but would be beyond the scope of even most second or third courses in statistics. On the other hand, we'd be stretched to find any method that we could confidently apply to correct the inherent biases of data from a convenience sample.
       </p>
       <p>
         While this book is scoped to well-constrained statistical problems, do remember that this is just the first book in what is a large library of statistical methods that are suitable for a very wide range of data and contexts.
@@ -336,7 +336,7 @@
       <example xml:id="ex-tire-failure-choice">
         <statement>
           <p>
-            The sample sizes vary widely in Guided Practice<nbsp/><xref ref="tire_failure_rate_3_samp_size_calc"/>. Which of the three would you suggest using? What would influence your choice?
+            The sample sizes vary widely in <nbsp/><xref ref="tire_failure_rate_3_samp_size_calc"/>. Which of the three would you suggest using? What would influence your choice?
           </p>
         </statement>
         <solution>
@@ -562,7 +562,7 @@
         <title>Is college worth it? Part II</title>
         <statement>
           <p>
-            Exercise <xref ref="college_worth_it_HT_CI"/> presents the results of a poll where 48% of 331 Americans who decide to not go to college do so because they cannot afford it.
+            <xref ref="college_worth_it_HT_CI"/> presents the results of a poll where 48% of 331 Americans who decide to not go to college do so because they cannot afford it.
           </p>
           <ol>
             <li>Calculate a 90% confidence interval for the proportion of Americans who decide to not go to college because they cannot afford it, and interpret the interval in context.</li>
@@ -575,7 +575,7 @@
         <title>National Health Plan, Part II</title>
         <statement>
           <p>
-            Exercise <xref ref="national_health_plan_HT"/> presents the results of a poll evaluating support for a generic "National Health Plan" in the US in 2019, reporting that 55% of Independents are supportive. If we wanted to estimate this number to within 1% with 90% confidence, what would be an appropriate sample size?
+            <xref ref="national_health_plan_HT"/> presents the results of a poll evaluating support for a generic "National Health Plan" in the US in 2019, reporting that 55% of Independents are supportive. If we wanted to estimate this number to within 1% with 90% confidence, what would be an appropriate sample size?
           </p>
         </statement>
       </exercise>
@@ -584,7 +584,7 @@
         <title>Legalize Marijuana, Part II</title>
         <statement>
           <p>
-            As discussed in Exercise <xref ref="legalize_marijuana_CI_decision"/>, the General Social Survey reported a sample where about 61% of US residents thought marijuana should be made legal. If we wanted to limit the margin of error of a 95% confidence interval to 2%, about how many Americans would we need to survey?
+            As discussed in <xref ref="legalize_marijuana_CI_decision"/>, the General Social Survey reported a sample where about 61% of US residents thought marijuana should be made legal. If we wanted to limit the margin of error of a 95% confidence interval to 2%, about how many Americans would we need to survey?
           </p>
         </statement>
       </exercise>
@@ -598,7 +598,7 @@
     
     <introduction>
       <p>
-        We would like to extend the methods from Section<nbsp/><xref ref="singleProportion"/> to apply confidence intervals and hypothesis tests to differences in population proportions: <m>p_1 - p_2</m>. In our investigations, we'll identify a reasonable point estimate of <m>p_1 - p_2</m> based on the sample, and you may have already guessed its form: <m>\hat{p}_1 - \hat{p}_2</m>. Next, we'll apply the same processes we used in the single-proportion context: we verify that the point estimate can be modeled using a normal distribution, we compute the estimate's standard error, and we apply our inferential framework.
+        We would like to extend the methods from <xref ref="singleProportion"/> to apply confidence intervals and hypothesis tests to differences in population proportions: <m>p_1 - p_2</m>. In our investigations, we'll identify a reasonable point estimate of <m>p_1 - p_2</m> based on the sample, and you may have already guessed its form: <m>\hat{p}_1 - \hat{p}_2</m>. Next, we'll apply the same processes we used in the single-proportion context: we verify that the point estimate can be modeled using a normal distribution, we compute the estimate's standard error, and we apply our inferential framework.
       </p>
     </introduction>
     
@@ -710,7 +710,7 @@
             <mrow>\hat{p}_{t} - \hat{p}_{c} = \frac{14}{40} - \frac{11}{50} = 0.35 - 0.22 = 0.13</mrow>
           </md>
           <p>
-            We use the standard error formula provided on page<nbsp/><xref ref="assem-sampling-dist-p1-p2"/>. As with the one-sample proportion case, we use the sample estimates of each proportion in the formula in the confidence interval context:
+            We use the standard error formula provided in <xref ref="assem-sampling-dist-p1-p2"/>. As with the one-sample proportion case, we use the sample estimates of each proportion in the formula in the confidence interval context:
           </p>
           <md>
             <mrow>SE \approx \sqrt{\frac{0.35 (1 - 0.35)}{40} + \frac{0.22 (1 - 0.22)}{50}} = 0.095</mrow>
@@ -850,7 +850,7 @@
       </exercise>
       
       <p>
-        In Example<nbsp/><xref ref="condFormammogramStudySummaryTableNormalInference"/>, we will check the conditions for using a normal distribution to analyze the results of the study. The details are very similar to that of confidence intervals. However, when the null hypothesis is that <m>p_1 - p_2 = 0</m>, we use a special proportion called the <term>pooled proportion</term> to check the success-failure condition:
+        In <xref ref="condFormammogramStudySummaryTableNormalInference"/>, we will check the conditions for using a normal distribution to analyze the results of the study. The details are very similar to that of confidence intervals. However, when the null hypothesis is that <m>p_1 - p_2 = 0</m>, we use a special proportion called the <term>pooled proportion</term> to check the success-failure condition:
       </p>
       <md>
         <mrow>\hat{p}_{\textit{pooled}} \amp = \frac{\text{\# of patients who died from breast cancer in the entire study}}{\text{\# of patients in the entire study}}</mrow>
@@ -903,7 +903,7 @@
       </assemblage>
       
       <p>
-        In Example<nbsp/><xref ref="condFormammogramStudySummaryTableNormalInference"/>, the pooled proportion was used to check the success-failure condition.<fn>For an example of a two-proportion hypothesis test that does not require the success-failure condition to be met, see Section<nbsp/><xref ref="sec-malaria-vaccine"/>.</fn> In the next example, we see the second place where the pooled proportion comes into play: the standard error calculation.
+        In <xref ref="condFormammogramStudySummaryTableNormalInference"/>, the pooled proportion was used to check the success-failure condition.<fn>For an example of a two-proportion hypothesis test that does not require the success-failure condition to be met, see <xref ref="sec-malaria-vaccine"/>.</fn> In the next example, we see the second place where the pooled proportion comes into play: the standard error calculation.
       </p>
       
       <example xml:id="ex-mammogram-se">
@@ -1006,7 +1006,7 @@
       <example xml:id="qualityCtrlEngHypothesisEval">
         <statement>
           <p>
-            The quality control engineer from Guided Practice<nbsp/><xref ref="carWheelBladeManufacturer"/> collects a sample of blades, examining 1000 blades from each company, and she finds that 899 blades pass inspection from the current supplier and 958 pass inspection from the prospective supplier. Using these data, evaluate the hypotheses from Guided Practice<nbsp/><xref ref="carWheelBladeManufacturer"/> with a significance level of 5%.
+            The quality control engineer from <xref ref="carWheelBladeManufacturer"/> collects a sample of blades, examining 1000 blades from each company, and she finds that 899 blades pass inspection from the current supplier and 958 pass inspection from the prospective supplier. Using these data, evaluate the hypotheses from <xref ref="carWheelBladeManufacturer"/> with a significance level of 5%.
           </p>
         </statement>
         <solution>
@@ -1044,7 +1044,7 @@
       <title>Examining the standard error formula (special topic)</title>
       
       <p>
-        This subsection covers more theoretical topics that offer deeper insights into the origins of the standard error formula for the difference of two proportions. Ultimately, all of the standard error formulas we encounter in this chapter and in Chapter<nbsp/><xref ref="ch-inference-for-means"/> can be derived from the probability principles of Section<nbsp/><xref ref="sec-random-variables"/>.
+        This subsection covers more theoretical topics that offer deeper insights into the origins of the standard error formula for the difference of two proportions. Ultimately, all of the standard error formulas we encounter in this chapter and in <xref ref="ch-inference-for-means"/> can be derived from the probability principles of <xref ref="sec-random-variables"/>.
       </p>
       
       <p>
@@ -1066,7 +1066,7 @@
       <exercise xml:id="derivingSEForDiffOfTwoMeansExercise">
         <statement>
           <p>
-            Prerequisite: Section<nbsp/><xref ref="sec-random-variables"/>. We can rewrite the equation above in a different way:
+            Prerequisite: <xref ref="sec-random-variables"/>. We can rewrite the equation above in a different way:
           </p>
           <me>
             SE_{\hat{p}_{1} - \hat{p}_{2}}^2 = SE_{\hat{p}_1}^2 + SE_{\hat{p}_2}^2
@@ -1197,7 +1197,7 @@
         <title>National Health Plan, Part III</title>
         <statement>
           <p>
-            Exercise <xref ref="national_health_plan_HT"/> presents the results of a poll evaluating support for a generically branded "National Health Plan" in the United States. 79% of 347 Democrats and 55% of 617 Independents support a National Health Plan.
+            <xref ref="national_health_plan_HT"/> presents the results of a poll evaluating support for a generically branded "National Health Plan" in the United States. 79% of 347 Democrats and 55% of 617 Independents support a National Health Plan.
           </p>
           <ol>
             <li>Calculate a 95% confidence interval for the difference between the proportion of Democrats and Independents who support a National Health Plan <m>(p_{D} - p_{I})</m>, and interpret it in this context. We have already checked conditions for you.</li>
@@ -1263,7 +1263,7 @@
         <title>Sleep deprivation, CA vs. OR, Part II</title>
         <statement>
           <p>
-            Exercise <xref ref="sleep_OR_CA_CI"/> provides data on sleep deprivation rates of Californians and Oregonians. The proportion of California residents who reported insufficient rest or sleep during each of the preceding 30 days is 8.0%, while this proportion is 8.8% for Oregon residents. These data are based on simple random samples of 11,545 California and 4,691 Oregon residents.
+            <xref ref="sleep_OR_CA_CI"/> provides data on sleep deprivation rates of Californians and Oregonians. The proportion of California residents who reported insufficient rest or sleep during each of the preceding 30 days is 8.0%, while this proportion is 8.8% for Oregon residents. These data are based on simple random samples of 11,545 California and 4,691 Oregon residents.
           </p>
           <ol>
             <li>Conduct a hypothesis test to determine if these data provide strong evidence the rate of sleep deprivation is different for the two states. (Reminder: Check conditions)</li>
@@ -1276,7 +1276,7 @@
         <title>Offshore drilling, Part II</title>
         <statement>
           <p>
-            Results of a poll evaluating support for drilling for oil and natural gas off the coast of California were introduced in Exercise <xref ref="offshore_drill_edu_dontknow_HT"/>.
+            Results of a poll evaluating support for drilling for oil and natural gas off the coast of California were introduced in <xref ref="offshore_drill_edu_dontknow_HT"/>.
           </p>
           <tabular>
             <row>
@@ -1713,7 +1713,7 @@
         X^2 = \frac{(\text{observed count}_1 - \text{null count}_1)^2}{\text{null count}_1} + \dots + \frac{(\text{observed count}_4 - \text{null count}_4)^2}{\text{null count}_4}
       </me>
       <p>
-        The final number <m>X^2</m> summarizes how strongly the observed counts tend to deviate from the null counts. In Section<nbsp/><xref ref="pValueForAChiSquareTest"/>, we will see that if the null hypothesis is true, then <m>X^2</m> follows a new distribution called a <em>chi-square distribution</em>. Using this distribution, we will be able to obtain a p-value to evaluate the hypotheses.
+        The final number <m>X^2</m> summarizes how strongly the observed counts tend to deviate from the null counts. In <xref ref="pValueForAChiSquareTest"/>, we will see that if the null hypothesis is true, then <m>X^2</m> follows a new distribution called a <em>chi-square distribution</em>. Using this distribution, we will be able to obtain a p-value to evaluate the hypotheses.
       </p>
     </subsection>
     
@@ -1760,7 +1760,7 @@
       </figure>
       
       <p>
-        <xref ref="chiSquareDistributionWithInceasingDF"/> and Guided Practice<nbsp/><xref ref="exerChiSquareDistributionDescriptionWithMoreDOF"/> demonstrate three general properties of chi-square distributions as the degrees of freedom increases: the distribution becomes more symmetric, the center moves to the right, and the variability inflates.
+        <xref ref="chiSquareDistributionWithInceasingDF"/> and <xref ref="exerChiSquareDistributionDescriptionWithMoreDOF"/> demonstrate three general properties of chi-square distributions as the degrees of freedom increases: the distribution becomes more symmetric, the center moves to the right, and the variability inflates.
       </p>
       
       <p>
@@ -1902,7 +1902,7 @@
       <title>Finding a p-value for a chi-square distribution</title>
       
       <p>
-        In Section<nbsp/><xref ref="chiSquareTestStatistic"/>, we identified a new test statistic (<m>X^2</m>) within the context of assessing whether there was evidence of racial bias in how jurors were sampled. The null hypothesis represented the claim that jurors were randomly sampled and there was no racial bias. The alternative hypothesis was that there was racial bias in how the jurors were sampled.
+        In <xref ref="chiSquareTestStatistic"/>, we identified a new test statistic (<m>X^2</m>) within the context of assessing whether there was evidence of racial bias in how jurors were sampled. The null hypothesis represented the claim that jurors were randomly sampled and there was no racial bias. The alternative hypothesis was that there was racial bias in how the jurors were sampled.
       </p>
       
       <p>
@@ -1980,7 +1980,7 @@
       </assemblage>
       
       <p>
-        When examining a table with just two bins, pick a single bin and use the one-proportion methods introduced in Section<nbsp/><xref ref="singleProportion"/>.
+        When examining a table with just two bins, pick a single bin and use the one-proportion methods introduced in <xref ref="singleProportion"/>.
       </p>
     </subsection>
     
@@ -1988,7 +1988,7 @@
       <title>Evaluating goodness of fit for a distribution</title>
       
       <p>
-        Section<nbsp/>3.5 would be useful background reading for this example, but it is not a prerequisite.
+        3.5 would be useful background reading for this example, but it is not a prerequisite.
       </p>
       
       <p>
@@ -2212,7 +2212,7 @@
       <example xml:id="ex-sp500-interpretation">
         <statement>
           <p>
-            In Example<nbsp/><xref ref="DNRejectGeomModelForSP500"/>, we did not reject the null hypothesis that the trading days are independent during the last 10 years of data. Why is this so important?
+            In <xref ref="DNRejectGeomModelForSP500"/>, we did not reject the null hypothesis that the trading days are independent during the last 10 years of data. Why is this so important?
           </p>
         </statement>
         <solution>
@@ -2543,7 +2543,7 @@
       </assemblage>
       
       <p>
-        When analyzing 2-by-2 contingency tables, one guideline is to use the two-proportion methods introduced in Section<nbsp/>6.2.
+        When analyzing 2-by-2 contingency tables, one guideline is to use the two-proportion methods introduced in 6.2.
       </p>
       
       <figure xml:id="fig-ipod-chi-sq-tail">
