@@ -1780,7 +1780,7 @@
       </example>
 
       <p>
-        Example <xref ref="ex-spam-email-classification"/> points out that row and column proportions are not
+        <xref ref="ex-spam-email-classification"/> points out that row and column proportions are not
         equivalent. Before settling on one form for a table, it is important to consider each to ensure that the most
         useful table is constructed. However, sometimes it simply isn't clear which, if either, is more useful.
       </p>
@@ -2383,7 +2383,7 @@
       </example>
 
       <p>
-        Example <xref ref="ex-malaria-vaccine-convincing"/> is a reminder that the observed outcomes in the data
+        <xref ref="ex-malaria-vaccine-convincing"/> is a reminder that the observed outcomes in the data
         sample may not perfectly reflect the true relationships between variables since there is <term>random
         noise</term>. While the observed difference in rates of infection is large, the sample size for the study is
         small, making it unclear if this observed difference represents efficacy of the vaccine or whether it is simply
