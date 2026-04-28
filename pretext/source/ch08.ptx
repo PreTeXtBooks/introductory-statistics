@@ -1503,7 +1503,7 @@
         <title>Crawling babies, Part II</title>
         <statement>
           <p>
-            Exercise <xref ref="ex-crawling-babies-corr"/> introduces data on the average monthly temperature during the month babies first try to crawl (about 6 months after birth) and the average first crawling age for babies born in a given month. A scatterplot of these two variables reveals a potential outlying month when the average temperature is about 53°F and average crawling age is about 28.5 weeks. Does this point have high leverage? Is it an influential point?
+            <xref ref="ex-crawling-babies-corr"/> introduces data on the average monthly temperature during the month babies first try to crawl (about 6 months after birth) and the average first crawling age for babies born in a given month. A scatterplot of these two variables reveals a potential outlying month when the average temperature is about 53°F and average crawling age is about 28.5 weeks. Does this point have high leverage? Is it an influential point?
           </p>
         </statement>
       </exercise>
@@ -1907,7 +1907,7 @@
         <title>Urban homeowners, Part II</title>
         <statement>
           <p>
-            Exercise <xref ref="ex-urban-homeowners-outlier"/> gives a scatterplot displaying the relationship between the percent of families that own their home and the percent of the population living in urban areas. Below is a similar scatterplot, excluding District of Columbia, as well as the residuals plot. There were 51 cases.
+            <xref ref="ex-urban-homeowners-outlier"/> gives a scatterplot displaying the relationship between the percent of families that own their home and the percent of the population living in urban areas. Below is a similar scatterplot, excluding District of Columbia, as well as the residuals plot. There were 51 cases.
           </p>
           <figure>
             <image source="ch_regr_simple_linear/figures/eoce/urban_homeowners_cond/urban_homeowners_cond.png" width="50%">
@@ -1927,7 +1927,7 @@
         <title>Murders and poverty, Part II</title>
         <statement>
           <p>
-            Exercise <xref ref="ex-murders-poverty-reg"/> presents regression output from a model for predicting annual murders per million from percentage living in poverty based on a random sample of 20 metropolitan areas. The model output is also provided below.
+            <xref ref="ex-murders-poverty-reg"/> presents regression output from a model for predicting annual murders per million from percentage living in poverty based on a random sample of 20 metropolitan areas. The model output is also provided below.
           </p>
           <tabular>
             <row bottom="major">
