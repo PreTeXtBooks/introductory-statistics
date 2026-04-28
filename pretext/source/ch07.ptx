@@ -4,7 +4,7 @@
   
   <introduction>
     <p>
-      Chapter<nbsp/><xref ref="ch-foundations-for-inference"/> introduced a framework for 
+      <xref ref="ch-foundations-for-inference"/> introduced a framework for 
       statistical inference based on confidence intervals and hypotheses using the normal 
       distribution for sample proportions. In this chapter, we encounter several new point 
       estimates and a couple new distributions. In each case, the inference ideas remain the 
@@ -62,7 +62,7 @@
           <p>
             When we modeled <m>\hat{p}</m> using the normal distribution, certain conditions had to be
             satisfied. The conditions for working with <m>\bar{x}</m> are a little more complex, and
-            we'll spend Section<nbsp/><xref ref="x_bar_conditions"/> discussing how to check conditions
+            we'll spend <xref ref="x_bar_conditions"/> discussing how to check conditions
             for inference.
           </p>
         </li>
@@ -71,7 +71,7 @@
             The standard error is dependent on the population standard deviation, <m>\sigma</m>. However,
             we rarely know <m>\sigma</m>, and instead we must estimate it. Because this estimation is
             itself imperfect, we use a new distribution called the <m>t</m>-distribution to fix this
-            problem, which we discuss in Section<nbsp/><xref ref="introducingTheTDistribution"/>.
+            problem, which we discuss in <xref ref="introducingTheTDistribution"/>.
           </p>
         </li>
       </ul>
@@ -205,7 +205,7 @@
       <p>
         We'll find it useful to use a new distribution for inference calculations called the
         <term><m>t</m>-distribution</term>. A <m>t</m>-distribution, shown as a solid line in
-        Figure<nbsp/><xref ref="tDistCompareToNormalDist"/>, has a bell shape. However, its tails are
+        <xref ref="tDistCompareToNormalDist"/>, has a bell shape. However, its tails are
         thicker than the normal distribution's, meaning observations are more likely to fall beyond two
         standard deviations from the mean than under the normal distribution. The extra thick tails of
         the <m>t</m>-distribution are exactly the correction needed to resolve the problem of using
@@ -224,7 +224,7 @@
         The <m>t</m>-distribution is always centered at zero and has a single parameter: degrees of
         freedom. The <term>degrees of freedom (<m>df</m>)</term> describes the precise form of the
         bell-shaped <m>t</m>-distribution. Several <m>t</m>-distributions are shown in
-        Figure<nbsp/><xref ref="tDistConvergeToNormalDist"/> in comparison to the normal distribution.
+        <xref ref="tDistConvergeToNormalDist"/> in comparison to the normal distribution.
       </p>
       
       <p>
@@ -275,7 +275,7 @@
         <solution>
           <p>
             Just like a normal probability problem, we first draw the picture in
-            Figure<nbsp/><xref ref="tDistDF18LeftTail2Point10"/> and shade the area below <m>-2.10</m>.
+            <xref ref="tDistDF18LeftTail2Point10"/> and shade the area below <m>-2.10</m>.
             Using statistical software, we can obtain a precise value: 0.0250.
           </p>
         </solution>
@@ -294,7 +294,7 @@
         <statement>
           <p>
             A <m>t</m>-distribution with 20 degrees of freedom is shown in the left panel of
-            Figure<nbsp/><xref ref="tDistDF20RightTail1Point65"/>. Estimate the proportion of the
+            <xref ref="tDistDF20RightTail1Point65"/>. Estimate the proportion of the
             distribution falling above 1.65.
           </p>
         </statement>
@@ -321,7 +321,7 @@
         <statement>
           <p>
             A <m>t</m>-distribution with 2 degrees of freedom is shown in the right panel of
-            Figure<nbsp/><xref ref="tDistDF20RightTail1Point65"/>. Estimate the proportion of the
+            <xref ref="tDistDF20RightTail1Point65"/>. Estimate the proportion of the
             distribution falling more than 3 units from the mean (above or below).
           </p>
         </statement>
@@ -368,7 +368,7 @@
       <p>
         We will identify a confidence interval for the average mercury content in dolphin muscle using a
         sample of 19 Risso's dolphins from the Taiji area in Japan. The data are summarized in
-        Figure<nbsp/><xref ref="summaryStatsOfHgInMuscleOfRissosDolphins"/>. The minimum and maximum
+        <xref ref="summaryStatsOfHgInMuscleOfRissosDolphins"/>. The minimum and maximum
         observed values can be used to evaluate whether or not there are clear outliers.
       </p>
       
@@ -402,7 +402,7 @@
         <solution>
           <p>
             The observations are a simple random sample, therefore independence is reasonable. The summary
-            statistics in Figure<nbsp/><xref ref="summaryStatsOfHgInMuscleOfRissosDolphins"/> do not
+            statistics in <xref ref="summaryStatsOfHgInMuscleOfRissosDolphins"/> do not
             suggest any clear outliers, since all observations are within 2.5 standard deviations of the
             mean. Based on this evidence, the normality condition seems reasonable.
           </p>
@@ -421,7 +421,7 @@
       <example xml:id="dolphin-se">
         <statement>
           <p>
-            Using the summary statistics in Figure<nbsp/><xref ref="summaryStatsOfHgInMuscleOfRissosDolphins"/>,
+            Using the summary statistics in <xref ref="summaryStatsOfHgInMuscleOfRissosDolphins"/>,
             compute the standard error for the average mercury content in the <m>n = 19</m> dolphins.
           </p>
         </statement>
@@ -515,7 +515,7 @@
         <statement>
           <p>
             Estimate the standard error of <m>\bar{x} = 0.287</m> ppm using the data summaries in
-            Guided Practice<nbsp/><xref ref="croakerWhiteFishPacificExerConditions"/>. If we are to use
+            <xref ref="croakerWhiteFishPacificExerConditions"/>. If we are to use
             the <m>t</m>-distribution to create a 90% confidence interval for the actual mean of the
             mercury content, identify the degrees of freedom and <m>t^{\star}_{df}</m>.
           </p>
@@ -562,8 +562,8 @@
       <exercise xml:id="croakerWhiteFish90ci">
         <statement>
           <p>
-            Using the information and results of Guided Practice<nbsp/><xref ref="croakerWhiteFishPacificExerConditions"/>
-            and Example<nbsp/><xref ref="croakerWhiteFishPacificExerSEDFTStar"/>, compute a 90% confidence
+            Using the information and results of <xref ref="croakerWhiteFishPacificExerConditions"/>
+            and <xref ref="croakerWhiteFishPacificExerSEDFTStar"/>, compute a 90% confidence
             interval for the average mercury content of croaker white fish (Pacific).<fn><m>\bar{x} \pm t^{\star}_{14} \times SE \to 0.287 \pm 1.76 \times 0.0178 \to (0.256, 0.318)</m>.
             We are 90% confident that the average mercury content of croaker white fish (Pacific) is
             between 0.256 and 0.318 ppm.</fn>
@@ -574,7 +574,7 @@
       <exercise>
         <statement>
           <p>
-            The 90% confidence interval from Guided Practice<nbsp/><xref ref="croakerWhiteFish90ci"/> is
+            The 90% confidence interval from <xref ref="croakerWhiteFish90ci"/> is
             0.256 ppm to 0.318 ppm. Can we say that 90% of croaker white fish (Pacific) have mercury levels
             between 0.256 and 0.318 ppm?<fn>No, a confidence interval only provides a range of plausible
             values for a population parameter, in this case the population mean. It does not describe what
@@ -614,7 +614,7 @@
           <p>
             The data come from a simple random sample of all participants, so the observations are
             independent. However, should we be worried about the normality condition? See
-            Figure<nbsp/><xref ref="run10SampTimeHistogram"/> for a histogram of the differences and
+            <xref ref="run10SampTimeHistogram"/> for a histogram of the differences and
             evaluate if we can move forward.<fn>With a sample of 100, we should only be concerned if there
             are particularly extreme outliers. The histogram of the data doesn't show any outliers of
             concern (and arguably, no outliers at all).</fn>
@@ -1005,7 +1005,7 @@
       
       <p>
         We sampled 201 UCLA courses. Of those, 68 required books could be found on Amazon. A portion
-        of the data set from these courses is shown in Figure<nbsp/><xref ref="textbooksDF"/>, where
+        of the data set from these courses is shown in <xref ref="textbooksDF"/>, where
         prices are in US dollars.
       </p>
       
@@ -1092,10 +1092,10 @@
       </me>
       <p>
         It is important that we always subtract using a consistent order; here Amazon prices are always
-        subtracted from UCLA prices. The first difference shown in Figure<nbsp/><xref ref="textbooksDF"/>
+        subtracted from UCLA prices. The first difference shown in <xref ref="textbooksDF"/>
         is computed as <m>47.97 - 47.45 = 0.52</m>. Similarly, the second difference is computed as
         <m>14.26 - 13.55 = 0.71</m>, and the third is <m>13.50 - 12.53 = 0.97</m>. A histogram of the
-        differences is shown in Figure<nbsp/><xref ref="diffInTextbookPricesF18"/>. Using differences
+        differences is shown in <xref ref="diffInTextbookPricesF18"/>. Using differences
         between paired observations is a common and useful way to analyze paired data.
       </p>
       
@@ -1117,7 +1117,7 @@
       
       <p>
         To analyze a paired data set, we simply analyze the differences. We can use the same
-        <m>t</m>-distribution techniques we applied in Section<nbsp/><xref ref="oneSampleMeansWithTDistribution"/>.
+        <m>t</m>-distribution techniques we applied in <xref ref="oneSampleMeansWithTDistribution"/>.
       </p>
       
       <figure xml:id="textbooksSummaryStats">
@@ -1171,7 +1171,7 @@
       <example xml:id="SEAndTScoreTextbookPriceDiff">
         <statement>
           <p>
-            Complete the hypothesis test started in Example<nbsp/><xref ref="htSetupTextbookPriceDiff"/>.
+            Complete the hypothesis test started in <xref ref="htSetupTextbookPriceDiff"/>.
           </p>
         </statement>
         <solution>
@@ -1220,7 +1220,7 @@
           <p>
             Create a 95% confidence interval for the average price difference between books at the UCLA
             bookstore and books on Amazon.<fn>Conditions have already been verified and the standard
-            error computed in Example<nbsp/><xref ref="htSetupTextbookPriceDiff"/>. To find the interval,
+            error computed in <xref ref="htSetupTextbookPriceDiff"/>. To find the interval,
             identify <m>t^{\star}_{67}</m> using statistical software or the <m>t</m>-table
             (<m>t^{\star}_{67} = 2.00</m>), and plug it, the point estimate, and the standard error into
             the confidence interval formula: <m>\text{point estimate} \pm t^{\star} \times SE \to 3.58 \pm 2.00 \times 1.63 \to (0.32, 6.84)</m>. We are 95% confident that Amazon is, on average,
@@ -1235,7 +1235,7 @@
             We have strong evidence that Amazon is, on average, less expensive. How should this
             conclusion affect UCLA student buying habits? Should UCLA students always buy their books on
             Amazon?<fn>The average price difference is only mildly useful for this question. Examine the
-            distribution shown in Figure<nbsp/><xref ref="diffInTextbookPricesF18"/>. There are certainly
+            distribution shown in <xref ref="diffInTextbookPricesF18"/>. There are certainly
             a handful of cases where Amazon prices are far below the UCLA Bookstore's, which suggests it
             is worth checking Amazon (and probably other online sites) before purchasing. However, in many
             cases the Amazon price is above what the UCLA Bookstore charges, and most of the time the
@@ -1408,7 +1408,7 @@
         <statement>
           <p>
             We considered the change in the number of days exceeding 90°F from 1948 and 2018 at 197
-            randomly sampled locations from the NOAA database in Exercise<nbsp/><xref ref="global_warming_v2_1"/>.
+            randomly sampled locations from the NOAA database in <xref ref="global_warming_v2_1"/>.
             The mean and standard deviation of the reported differences are 2.9 days and 17.2 days.
           </p>
           <ol>
@@ -1426,7 +1426,7 @@
         <statement>
           <p>
             We considered the differences between the reading and writing scores of a random sample of 200
-            students who took the High School and Beyond Survey in Exercise<nbsp/><xref ref="hs_beyond_1"/>.
+            students who took the High School and Beyond Survey in <xref ref="hs_beyond_1"/>.
             The mean and standard deviation of the differences are <m>\bar{x}_{\text{read-write}} = -0.545</m>
             and 8.887 points.
           </p>
@@ -1470,10 +1470,10 @@
       
       <p>
         Does treatment using embryonic stem cells (ESCs) help improve heart function following a heart
-        attack? Figure<nbsp/><xref ref="statsSheepEscStudy"/> contains summary statistics for an
+        attack? <xref ref="statsSheepEscStudy"/> contains summary statistics for an
         experiment to test ESCs in sheep that had a heart attack. Each of these sheep was randomly
         assigned to the ESC or control group, and the change in their hearts' pumping capacity was
-        measured in the study. Figure<nbsp/><xref ref="stemCellTherapyForHearts"/> provides histograms
+        measured in the study. <xref ref="stemCellTherapyForHearts"/> provides histograms
         of the two data sets. A positive value corresponds to increased pumping capacity, which generally
         suggests a stronger recovery. Our goal will be to identify a 95% confidence interval for the
         effect of ESCs on the change in heart pumping capacity relative to the control group.
@@ -1564,7 +1564,7 @@
           </p>
           
           <p>
-            Figure<nbsp/><xref ref="stemCellTherapyForHearts"/> does not reveal any clear outliers in
+            <xref ref="stemCellTherapyForHearts"/> does not reveal any clear outliers in
             either group. (The ESC group does look a bit more variability, but this is not the same as
             having clear outliers.)
           </p>
@@ -1675,7 +1675,7 @@
       <p>
         A data set called <c>ncbirths</c> represents a random sample of 150 cases of mothers and their
         newborns in North Carolina over a year. Four cases from this data set are represented in
-        Figure<nbsp/><xref ref="babySmokeDF"/>. We are particularly interested in two variables:
+        <xref ref="babySmokeDF"/>. We are particularly interested in two variables:
         <c>weight</c> and <c>smoke</c>. The <c>weight</c> variable represents the weights of the
         newborns and the <c>smoke</c> variable describes which mothers smoked during pregnancy. We
         would like to know, is there convincing evidence that newborns from mothers who smoke have a
@@ -1789,7 +1789,7 @@
         <li>
           <p>
             With both data sets over 30 observations, we inspect the data in
-            Figure<nbsp/><xref ref="babySmokePlotOfTwoGroupsToExamineSkew"/> for any particularly
+            <xref ref="babySmokePlotOfTwoGroupsToExamineSkew"/> for any particularly
             extreme outliers and find none.
           </p>
         </li>
@@ -1814,7 +1814,7 @@
       <exercise xml:id="babySmokeCalcForWeight">
         <statement>
           <p>
-            The summary statistics in Figure<nbsp/><xref ref="SumStatsBirthWeightNewbornsSmoke"/> may be
+            The summary statistics in <xref ref="SumStatsBirthWeightNewbornsSmoke"/> may be
             useful for this Guided Practice.
           </p>
           <ol>
@@ -1875,16 +1875,15 @@
       <example xml:id="babySmokeHTForWeightComputePValueAndEvalHT">
         <statement>
           <p>
-            Complete the hypothesis test started in Example<nbsp/><xref ref="babySmokeHTForWeight"/> and
-            Guided Practice<nbsp/><xref ref="babySmokeCalcForWeight"/>. Use a significance level of
+            Complete the hypothesis test started in <xref ref="babySmokeHTForWeight"/> and
+            <xref ref="babySmokeCalcForWeight"/>. Use a significance level of
             <m>\alpha=0.05</m>. For reference, <m>\bar{x}_{n} - \bar{x}_{s} = 0.40</m>, <m>SE = 0.26</m>,
             and the sample sizes were <m>n_n = 100</m> and <m>n_s = 50</m>.
           </p>
         </statement>
         <solution>
           <p>
-            We can find the test statistic for this test using the values from Guided
-            Practice<nbsp/><xref ref="babySmokeCalcForWeight"/>:
+            We can find the test statistic for this test using the values from <xref ref="babySmokeCalcForWeight"/>:
           </p>
           <me>
             T = \frac{0.40 - 0}{0.26} = 1.54
@@ -1921,7 +1920,7 @@
         <statement>
           <p>
             We've seen much research suggesting smoking is harmful during pregnancy, so how could we fail
-            to reject the null hypothesis in Example<nbsp/><xref ref="babySmokeHTForWeightComputePValueAndEvalHT"/>?
+            to reject the null hypothesis in <xref ref="babySmokeHTForWeightComputePValueAndEvalHT"/>?
           </p>
         </statement>
         <solution>
@@ -1979,7 +1978,7 @@
         An instructor decided to run two slight variations of the same exam. Prior to passing out the
         exams, she shuffled the exams together to ensure each student received a random version. Summary
         statistics for how students performed on these two exams are shown in
-        Figure<nbsp/><xref ref="summaryStatsForTwoVersionsOfExams"/>. Anticipating complaints from
+        <xref ref="summaryStatsForTwoVersionsOfExams"/>. Anticipating complaints from
         students who took Version B, she would like to evaluate whether the difference observed in the
         groups is so large that it provides convincing evidence that Version B was more difficult (on
         average) than Version A.
@@ -2034,7 +2033,7 @@
       <exercise xml:id="conditionsForTDistForEvaluatingTwoExamVersions">
         <statement>
           <p>
-            To evaluate the hypotheses in Guided Practice<nbsp/><xref ref="htSetupForEvaluatingTwoExamVersions"/>
+            To evaluate the hypotheses in <xref ref="htSetupForEvaluatingTwoExamVersions"/>
             using the <m>t</m>-distribution, we must first verify conditions.
           </p>
           <ol>
@@ -2101,7 +2100,7 @@
       <example>
         <statement>
           <p>
-            Identify the p-value depicted in Figure<nbsp/><xref ref="pValueOfTwoTailAreaOfExamVersionsWhereDFIs26"/>
+            Identify the p-value depicted in <xref ref="pValueOfTwoTailAreaOfExamVersionsWhereDFIs26"/>
             using <m>df = 26</m>, and provide a conclusion in the context of the case study.
           </p>
         </statement>
@@ -2113,7 +2112,7 @@
           </p>
           
           <p>
-            In Guided Practice<nbsp/><xref ref="htSetupForEvaluatingTwoExamVersions"/>, we specified that
+            In <xref ref="htSetupForEvaluatingTwoExamVersions"/>, we specified that
             we would use <m>\alpha = 0.01</m>. Since the p-value is larger than <m>\alpha</m>, we do not
             reject the null hypothesis. That is, the data do not convincingly show that one exam version
             is more difficult than the other, and the teacher should not be convinced that she should add
@@ -2276,7 +2275,7 @@
         <title>Friday the 13<m>^{\text{th}}</m>, Part II</title>
         <statement>
           <p>
-            The Friday the <m>13^{\text{th}}</m> study reported in Exercise<nbsp/><xref ref="friday_13th_traffic"/> also provides data on traffic accident related emergency room admissions. The distributions of these counts from Friday the 6<m>^{\text{th}}</m> and Friday the 13<m>^{\text{th}}</m> are shown below for six such paired dates along with summary statistics. You may assume that conditions for inference are met.
+            The Friday the <m>13^{\text{th}}</m> study reported in <xref ref="friday_13th_traffic"/> also provides data on traffic accident related emergency room admissions. The distributions of these counts from Friday the 6<m>^{\text{th}}</m> and Friday the 13<m>^{\text{th}}</m> are shown below for six such paired dates along with summary statistics. You may assume that conditions for inference are met.
           </p>
           
           <figure>
@@ -2327,7 +2326,7 @@
         <title>Diamonds, Part II</title>
         <statement>
           <p>
-            In Exercise<nbsp/><xref ref="diamonds_1"/>, we discussed diamond prices (standardized by weight) for diamonds with weights 0.99 carats and 1 carat. See the table for summary statistics, and then construct a 95% confidence interval for the average difference between the standardized prices of 0.99 and 1 carat diamonds. You may assume the conditions for inference are met.
+            In <xref ref="diamonds_1"/>, we discussed diamond prices (standardized by weight) for diamonds with weights 0.99 carats and 1 carat. See the table for summary statistics, and then construct a 95% confidence interval for the average difference between the standardized prices of 0.99 and 1 carat diamonds. You may assume the conditions for inference are met.
           </p>
           
           <tabular>
@@ -2474,7 +2473,7 @@
         <title>Chicken diet and weight, Part II</title>
         <statement>
           <p>
-            Casein is a common weight gain supplement for humans. Does it have an effect on chickens? Using data provided in Exercise<nbsp/><xref ref="chick_wts_linseed_horsebean"/>, test the hypothesis that the average weight of chickens that were fed casein is different than the average weight of chickens that were fed soybean. If your hypothesis test yields a statistically significant result, discuss whether or not the higher average weight of chickens can be attributed to the casein diet. Assume that conditions for inference are satisfied.
+            Casein is a common weight gain supplement for humans. Does it have an effect on chickens? Using data provided in <xref ref="chick_wts_linseed_horsebean"/>, test the hypothesis that the average weight of chickens that were fed casein is different than the average weight of chickens that were fed soybean. If your hypothesis test yields a statistically significant result, discuss whether or not the higher average weight of chickens can be attributed to the casein diet. Assume that conditions for inference are satisfied.
           </p>
         </statement>
       </exercise>
@@ -2484,7 +2483,7 @@
         <title>Fuel efficiency of manual and automatic cars, Part II</title>
         <statement>
           <p>
-            The table provides summary statistics on highway fuel economy of the same 52 cars from Exercise<nbsp/><xref ref="fuel_eff_city"/>. Use these statistics to calculate a 98% confidence interval for the difference between average highway mileage of manual and automatic cars, and interpret this interval in the context of the data.
+            The table provides summary statistics on highway fuel economy of the same 52 cars from <xref ref="fuel_eff_city"/>. Use these statistics to calculate a 98% confidence interval for the difference between average highway mileage of manual and automatic cars, and interpret this interval in the context of the data.
           </p>
           
           <tabular>
