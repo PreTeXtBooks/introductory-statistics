@@ -1124,7 +1124,7 @@
         </me>
         This mathematical inquiry of Bernoulli random variables can be extended even further. 
         Because 0 and 1 are numerical outcomes, we can define the mean and standard deviation 
-        of a Bernoulli random variable. (See Exercises <xref ref="ex-bernoulli-mean-derivation"/> 
+        of a Bernoulli random variable. (See <xref ref="ex-bernoulli-mean-derivation"/> 
         and <xref ref="ex-bernoulli-sd-derivation"/>.)
       </p>
 
@@ -3124,7 +3124,7 @@
       example, the rate would be modeled as higher on weekends than on weekdays. The idea of 
       modeling rates for a Poisson distribution against a second variable such as the day of 
       week forms the foundation of some more advanced methods that fall in the realm of 
-      <term>generalized linear models</term>. In Chapters <xref ref="ch-simple-linear-regression"/> 
+      <term>generalized linear models</term>. In <xref ref="ch-simple-linear-regression"/> 
       and <xref ref="ch-multiple-logistic-regression"/>, we will discuss a foundation of 
       linear models.
     </p>
@@ -3644,7 +3644,7 @@
                   at least 76 inches tall in a given day
                   follows a Poisson distribution with
                   mean equal to the value found in
-                  part <xref ref="ex-heights-10-yrs-dist-76-inches"/>.
+                  <xref ref="ex-heights-10-yrs-dist-76-inches"/>.
                   Use the Poisson distribution to identify
                   the probability no 10 year old will enter
                   the park who is 76 inches or taller.
