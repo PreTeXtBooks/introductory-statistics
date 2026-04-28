@@ -214,7 +214,7 @@ sum(sampled_entries == "support") / 1000
       </example>
       
       <p>
-        Example <xref ref="ex-smaller-sample-size"/> highlights an important property we will
+        <xref ref="ex-smaller-sample-size"/> highlights an important property we will
         see again and again: a bigger sample tends to provide a more precise point estimate
         than a smaller sample.
       </p>
@@ -348,7 +348,7 @@ sum(sampled_entries == "support") / 1000
           <p>
             Estimate how frequently the sample proportion <m>\hat{p}</m> should be within
             0.02 (2%) of the population value, <m>p = 0.88</m>. Based on
-            Examples <xref ref="ex-confirm-clt-applies"/> and <xref ref="ex-se-calculation"/>,
+            <xref ref="ex-confirm-clt-applies"/> and <xref ref="ex-se-calculation"/>,
             we know that the distribution is approximately
             <m>N(\mu_{\hat{p}} = 0.88, SE_{\hat{p}} = 0.010)</m>.
           </p>
@@ -388,7 +388,7 @@ sum(sampled_entries == "support") / 1000
       <exercise>
         <statement>
           <p>
-            In Example <xref ref="ex-smaller-sample-size"/> we discussed how a smaller sample
+            In <xref ref="ex-smaller-sample-size"/> we discussed how a smaller sample
             would tend to produce a less reliable estimate. Explain how this intuition is
             reflected in the formula for
             <m>SE_{\hat{p}} = \sqrt{\frac{p(1-p)}{n}}</m>.<fn>Since the sample size <m>n</m> is
@@ -481,7 +481,7 @@ sum(sampled_entries == "support") / 1000
       <p>
         An interesting question to answer is, <em>what happens when <m>np &lt; 10</m> or
         <m>n(1-p) &lt; 10</m>?</em> As we did in
-        Section <xref ref="subsec-variability-point-estimate"/>, we can simulate drawing
+        <xref ref="subsec-variability-point-estimate"/>, we can simulate drawing
         samples of different sizes where, say, the true proportion is <m>p = 0.25</m>. Here's
         a sample of size 10:
       </p>
@@ -2859,7 +2859,7 @@ sum(sampled_entries == "support") / 1000
       <example xml:id="ex-stents-two-sided-important">
         <statement>
           <p>
-            In Section <xref ref="subsec-ht-framework"/>, we encountered an example where
+            In <xref ref="subsec-ht-framework"/>, we encountered an example where
             doctors were interested in determining whether stents would help people who
             had a high risk of stroke. The researchers believed the stents would help.
             Unfortunately, the data showed the opposite: patients who received stents
