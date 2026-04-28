@@ -1635,7 +1635,7 @@
         <title>Confounding in county data</title>
         <statement>
           <p>
-            Figure <xref ref="fig-multiunit-homeownership"/> shows a negative association between the homeownership rate and the percentage of multi-unit structures in a county. However, it is unreasonable to conclude that there is a causal relationship between the two variables. Suggest a variable that might explain the negative relationship.
+            <xref ref="fig-multiunit-homeownership"/> shows a negative association between the homeownership rate and the percentage of multi-unit structures in a county. However, it is unreasonable to conclude that there is a causal relationship between the two variables. Suggest a variable that might explain the negative relationship.
           </p>
         </statement>
         <solution>
