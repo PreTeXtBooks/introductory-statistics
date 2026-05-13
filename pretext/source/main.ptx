@@ -12,8 +12,6 @@
       \pgfplotsset{compat=1.15}
     </latex-image-preamble>
     
-    <brandlogo url="https://www.openintro.org/" source="images/openintro-logo.svg" />
-    
     <document-id>openintro-statistics</document-id>
     
     <blurb shelf="Statistics">
@@ -57,21 +55,62 @@
         </copyright>
       </colophon>
 
+      <preface xml:id="pretext-edition-note">
+        <title>Note on this PreTeXt Edition</title>
+        <p>
+          This is a <url href="https://pretextbook.org/" visual="pretextbook.org">PreTeXt</url>
+          conversion of <em>OpenIntro Statistics, Fourth Edition</em>, originally written by
+          <url href="https://github.com/ddiez" visual="github.com/ddiez">David Diez</url>,
+          <url href="https://mine-cr.com/" visual="mine-cr.com">Mine Çetinkaya-Rundel</url>,
+          and <url href="https://github.com/cbarr8" visual="github.com/cbarr8">Christopher D. Barr</url>.
+          The original work is available online at
+          <url href="https://www.openintro.org/book/os/" visual="openintro.org/book/os">openintro.org/book/os</url>.
+          The original GitHub repository for the book source is at
+          <url href="https://github.com/OpenIntroStat/openintro-statistics" visual="github.com/OpenIntroStat/openintro-statistics">github.com/OpenIntroStat/openintro-statistics</url>.
+        </p>
+        <p>
+          This PreTeXt edition was prepared by
+          <url href="https://github.com/PreTeXtBooks/openintro-statistics" visual="github.com/PreTeXtBooks/openintro-statistics">the PreTeXtBooks project</url>
+          to make the content available in the PreTeXt format, enabling accessible and structured
+          output in HTML, PDF, and other formats.
+          All prose, figures, and mathematical content are intended to be faithful reproductions
+          of the original work, though occasional typographical errors may have been introduced
+          in the conversion process.
+          Report any issues to our
+          <url href="https://github.com/PreTeXtBooks/openintro-statistics/issues" visual="github.com/PreTeXtBooks/openintro-statistics/issues">GitHub Issues page</url>.
+        </p>
+        <p>
+          <em>This PreTeXt edition is an independent derivative work and is neither an OpenIntro
+          product nor endorsed by OpenIntro.</em>
+          OpenIntro is a registered trademark.
+          The original work by David Diez, Mine Çetinkaya-Rundel, and Christopher D. Barr is
+          licensed under a
+          <url href="https://creativecommons.org/licenses/by-sa/3.0/us/" visual="creativecommons.org/licenses/by-sa/3.0/us">Creative Commons Attribution-ShareAlike 3.0 United States License</url>.
+          This derivative work is likewise released under the same
+          <url href="https://creativecommons.org/licenses/by-sa/3.0/us/" visual="creativecommons.org/licenses/by-sa/3.0/us">Creative Commons Attribution-ShareAlike 3.0 United States License</url>.
+        </p>
+      </preface>
+
       <preface xml:id="preface">
         <title>Preface</title>
         <p>
-          This is a PreTeXt version of the original <em>OpenIntro Statistics</em> textbook.
-          The original book was created by David Diez, Mine Çetinkaya-Rundel, and Christopher D. Barr,
-          and is available at <url href="https://www.openintro.org/book/os/" visual="openintro.org/book/os">OpenIntro.org</url>.
-          The LaTeX source files for the original book can be found at the
-          <url href="https://github.com/OpenIntroStat/openintro-statistics" visual="github.com/OpenIntroStat/openintro-statistics">OpenIntro Statistics GitHub repository</url>.
-          If you encounter any issues with the PreTeXt rendering or conversion, please report them at the
-          <url href="https://github.com/PreTeXtBooks/openintro-statistics" visual="github.com/PreTeXtBooks/openintro-statistics">PreTeXtBooks GitHub repository</url>.
+          OpenIntro Statistics covers a first course in statistics, providing a rigorous
+          introduction to applied statistics that is clear, concise, and accessible.
+          This book was written with the undergraduate level in mind, but it's also popular
+          in high schools and graduate courses.
         </p>
         <p>
-          OpenIntro Statistics offers a traditional introduction to statistics
-          at the college level. This book is now available in PreTeXt format,
-          enabling enhanced online features and accessibility.
+          We hope readers will take away three ideas from this book in addition to forming
+          a foundation of statistical thinking and methods.
+          <ul>
+            <li>Statistics is an applied field with a wide range of practical applications.</li>
+            <li>You don't have to be a math guru to learn from real, interesting data.</li>
+            <li>
+              Data are messy, and statistical tools are imperfect.
+              But, when you understand the strengths and weaknesses of these tools,
+              you can use them to learn about the world.
+            </li>
+          </ul>
         </p>
         <p>
           The book's approach balances conceptual understanding with computational
