@@ -28,17 +28,19 @@
       <titlepage>
         <author>
           <personname>David Diez</personname>
+          <role>Data Scientist</role>
           <institution>OpenIntro</institution>
         </author>
         <author>
           <personname>Mine Çetinkaya-Rundel</personname>
-          <institution>Duke University, RStudio</institution>
+          <role>Associate Professor of the Practice, Duke University</role>
+          <institution>Professional Educator, RStudio</institution>
         </author>
         <author>
           <personname>Christopher D Barr</personname>
-          <institution>Normandale Community College</institution>
+          <role>Investment Analyst</role>
+          <institution>Varadero Capital</institution>
         </author>
-        <date><today /></date>
       </titlepage>
 
       <colophon>
@@ -91,41 +93,222 @@
         </p>
       </preface>
 
-      <preface xml:id="preface">
-        <title>Preface</title>
+<preface xml:id="preface">
+  <title>Preface</title>
+
+  <p>
+    OpenIntro Statistics covers a first course in statistics, providing a rigorous 
+    introduction to applied statistics that is clear, concise, and accessible. This 
+    book was written with the undergraduate level in mind, but it's also popular in 
+    high schools and graduate courses.
+  </p>
+
+  <p>
+    We hope readers will take away three ideas from this book in addition to forming 
+    a foundation of statistical thinking and methods.
+  </p>
+
+  <ul>
+    <li><p>Statistics is an applied field with a wide range of practical applications.</p></li>
+    <li><p>You don't have to be a math guru to learn from real, interesting data.</p></li>
+    <li>
+      <p>
+        Data are messy, and statistical tools are imperfect. But, when you understand 
+        the strengths and weaknesses of these tools, you can use them to learn about 
+        the world.
+      </p>
+    </li>
+  </ul>
+
+  <subsection xml:id="preface-textbook-overview">
+    <title>Textbook Overview</title>
+    <p>The chapters of this book are as follows:</p>
+    <ol>
+      <li>
         <p>
-          OpenIntro Statistics covers a first course in statistics, providing a rigorous
-          introduction to applied statistics that is clear, concise, and accessible.
-          This book was written with the undergraduate level in mind, but it's also popular
-          in high schools and graduate courses.
+          <em>Introduction to data.</em> Data structures, variables, and basic data 
+          collection techniques.
         </p>
+      </li>
+      <li>
         <p>
-          We hope readers will take away three ideas from this book in addition to forming
-          a foundation of statistical thinking and methods.
-          <ul>
-            <li>Statistics is an applied field with a wide range of practical applications.</li>
-            <li>You don't have to be a math guru to learn from real, interesting data.</li>
-            <li>
-              Data are messy, and statistical tools are imperfect.
-              But, when you understand the strengths and weaknesses of these tools,
-              you can use them to learn about the world.
-            </li>
-          </ul>
+          <em>Summarizing data.</em> Data summaries, graphics, and a teaser of 
+          inference using randomization.
         </p>
+      </li>
+      <li>
         <p>
-          The book's approach balances conceptual understanding with computational
-          skills and practical application. Real data and examples are used
-          throughout to illustrate statistical concepts.
+          <em>Probability.</em> Basic principles of probability.
         </p>
-      </preface>
+      </li>
+      <li>
+        <p>
+          <em>Distributions of random variables.</em> The normal model and other 
+          key distributions.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Foundations for inference.</em> General ideas for statistical inference 
+          in the context of estimating the population proportion.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Inference for categorical data.</em> Inference for proportions and 
+          tables using the normal and chi-square distributions.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Inference for numerical data.</em> Inference for one or two sample 
+          means using the t-distribution, statistical power for comparing two groups, 
+          and also comparisons of many means using ANOVA.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Introduction to linear regression.</em> Regression for a numerical 
+          outcome with one predictor variable. Most of this chapter could be covered 
+          after Chapter 1.
+        </p>
+      </li>
+      <li>
+        <p>
+          <em>Multiple and logistic regression.</em> Regression for numerical and 
+          categorical data using many predictors.
+        </p>
+      </li>
+    </ol>
+
+    <p>
+      OpenIntro Statistics supports flexibility in choosing and ordering topics. If 
+      the main goal is to reach multiple regression (Chapter 9) as quickly as possible, 
+      then the following are the ideal prerequisites:
+    </p>
+
+    <ul>
+      <li>
+        <p>
+          Chapter 1, Sections 2.1, and Section 2.2 for a solid introduction to data 
+          structures and statistical summaries that are used throughout the book.
+        </p>
+      </li>
+      <li>
+        <p>
+          Section 4.1 for a solid understanding of the normal distribution.
+        </p>
+      </li>
+      <li>
+        <p>
+          Chapter 5 to establish the core set of inference tools.
+        </p>
+      </li>
+      <li>
+        <p>
+          Section 7.1 to give a foundation for the t-distribution.
+        </p>
+      </li>
+      <li>
+        <p>
+          Chapter 8 for establishing ideas and principles for single predictor regression.
+        </p>
+      </li>
+    </ul>
+  </subsection>
+
+  <subsection xml:id="preface-examples-exercises">
+    <title>Examples and Exercises</title>
+
+    <p>
+      Examples are provided to establish an understanding of how to apply methods.
+    </p>
+
+    <example xml:id="example-preface-0-1">
+      <statement>
+        <p>
+          This is an example. When a question is asked here, where can the answer 
+          be found?
+        </p>
+      </statement>
+      <solution>
+        <p>
+          The answer can be found here, in the solution section of the example!
+        </p>
+      </solution>
+    </example>
+
+    <p>
+      When we think the reader should be ready to try determining the solution to an 
+      example, we frame it as Guided Practice.
+    </p>
+
+    <exercise xml:id="guided-practice-preface-0-2">
+      <statement>
+        <p>
+          The reader may check or learn the answer to any Guided Practice problem by 
+          reviewing the full solution in a footnote.
+        </p>
+      </statement>
+    </exercise>
+
+    <p>
+      Exercises are also provided at the end of each section as well as review exercises 
+      at the end of each chapter. Solutions are given for odd-numbered exercises in 
+      <xref ref="appendix-solutions"/>.
+    </p>
+  </subsection>
+
+  <subsection xml:id="preface-additional-resources">
+    <title>Additional Resources</title>
+
+    <p>
+      Video overviews, slides, statistical software labs, data sets used in the 
+      textbook, and much more are readily available at 
+      <url href="https://openintro.org/os">openintro.org/os</url>.
+    </p>
+
+    <p>
+      We also have improved the ability to access data in this book through the 
+      addition of <xref ref="appendix-data"/>, which provides additional information 
+      for each of the data sets used in the main text and is new in the Fourth Edition. 
+      Online guides to each of these data sets are also provided at 
+      <url href="https://openintro.org/data">openintro.org/data</url> and through a 
+      companion R package.
+    </p>
+
+    <p>
+      We appreciate all feedback as well as reports of any typos through the website. 
+      A short-link to report a new typo or review known typos is 
+      <url href="https://openintro.org/os/typos">openintro.org/os/typos</url>.
+    </p>
+
+    <p>
+      For those focused on statistics at the high school level, consider 
+      <em>Advanced High School Statistics</em>, which is a version of OpenIntro 
+      Statistics that has been heavily customized by Leah Dorazio for high school 
+      courses and AP<registered/> Statistics.
+    </p>
+  </subsection>
 
       <acknowledgement xml:id="acknowledgement">
         <title>Acknowledgements</title>
-        <p>
-          This textbook is built on the contributions of many individuals over many years.
-          We are grateful to all who have contributed to making statistics education
-          more accessible.
-        </p>
+    <p>
+      This project would not be possible without the passion and dedication of many 
+      more people beyond those on the author list. The authors would like to thank the 
+      OpenIntro Staff for their involvement and ongoing contributions. We are also very 
+      grateful to the hundreds of students and instructors who have provided us with 
+      valuable feedback since we first started posting book content in 2009.
+    </p>
+
+    <p>
+      We also want to thank the many teachers who helped review this edition, including 
+      Laura Acion, Matthew E. Aiello-Lammens, Jonathan Akin, Stacey C. Behrensmeyer, 
+      Juan Gomez, Jo Hardin, Nicholas Horton, Danish Khan, Peter H.M. Klaren, Jesse 
+      Mostipak, Jon C. New, Mario Orsi, Steve Phelps, and David Rockoff. We appreciate 
+      all of their feedback, which helped us tune the text in significant ways and 
+      greatly improved this book.
+    </p>
       </acknowledgement>
 
     </frontmatter>
