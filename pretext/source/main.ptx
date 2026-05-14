@@ -126,56 +126,65 @@
     <ol>
       <li>
         <p>
-          <em>Introduction to data.</em> Data structures, variables, and basic data 
+          <xref ref="ch-intro-to-data"><em>Introduction to data.</em></xref>
+          Data structures, variables, and basic data 
           collection techniques.
         </p>
       </li>
       <li>
         <p>
-          <em>Summarizing data.</em> Data summaries, graphics, and a teaser of 
+          <xref ref="ch-summarizing-data"><em>Summarizing data.</em></xref>
+          Data summaries, graphics, and a teaser of 
           inference using randomization.
         </p>
       </li>
       <li>
         <p>
-          <em>Probability.</em> Basic principles of probability.
+          <xref ref="ch-probability"><em>Probability.</em></xref>
+          Basic principles of probability.
         </p>
       </li>
       <li>
         <p>
-          <em>Distributions of random variables.</em> The normal model and other 
+          <xref ref="ch-distributions"><em>Distributions of random variables.</em></xref>
+          The normal model and other 
           key distributions.
         </p>
       </li>
       <li>
         <p>
-          <em>Foundations for inference.</em> General ideas for statistical inference 
+          <xref ref="ch-foundations-for-inference"><em>Foundations for inference.</em></xref>
+          General ideas for statistical inference 
           in the context of estimating the population proportion.
         </p>
       </li>
       <li>
         <p>
-          <em>Inference for categorical data.</em> Inference for proportions and 
+          <xref ref="ch-inference-for-props"><em>Inference for categorical data.</em></xref>
+          Inference for proportions and 
           tables using the normal and chi-square distributions.
         </p>
       </li>
       <li>
         <p>
-          <em>Inference for numerical data.</em> Inference for one or two sample 
+          <xref ref="ch-inference-for-means"><em>Inference for numerical data.</em></xref>
+          Inference for one or two sample 
           means using the t-distribution, statistical power for comparing two groups, 
           and also comparisons of many means using ANOVA.
         </p>
       </li>
       <li>
         <p>
-          <em>Introduction to linear regression.</em> Regression for a numerical 
+          <xref ref="ch-simple-linear-regression"><em>Introduction to linear regression.</em></xref>
+          Regression for a numerical 
           outcome with one predictor variable. Most of this chapter could be covered 
-          after Chapter 1.
+          after <xref ref="ch-intro-to-data">Chapter 1</xref>.
         </p>
       </li>
       <li>
         <p>
-          <em>Multiple and logistic regression.</em> Regression for numerical and 
+          <xref ref="ch-multiple-logistic-regression"><em>Multiple and logistic regression.</em></xref>
+          Regression for numerical and 
           categorical data using many predictors.
         </p>
       </li>
@@ -183,35 +192,38 @@
 
     <p>
       OpenIntro Statistics supports flexibility in choosing and ordering topics. If 
-      the main goal is to reach multiple regression (Chapter 9) as quickly as possible, 
+      the main goal is to reach multiple regression (<xref ref="ch-multiple-logistic-regression">Chapter 9</xref>)
+      as quickly as possible, 
       then the following are the ideal prerequisites:
     </p>
 
     <ul>
       <li>
         <p>
-          Chapter 1, Sections 2.1, and Section 2.2 for a solid introduction to data 
+          <xref ref="ch-intro-to-data">Chapter 1</xref>,
+          <xref ref="sec-numerical-data">Section 2.1</xref>,
+          and <xref ref="sec-categorical-data">Section 2.2</xref> for a solid introduction to data 
           structures and statistical summaries that are used throughout the book.
         </p>
       </li>
       <li>
         <p>
-          Section 4.1 for a solid understanding of the normal distribution.
+          <xref ref="sec-normal-distribution">Section 4.1</xref> for a solid understanding of the normal distribution.
         </p>
       </li>
       <li>
         <p>
-          Chapter 5 to establish the core set of inference tools.
+          <xref ref="ch-foundations-for-inference">Chapter 5</xref> to establish the core set of inference tools.
         </p>
       </li>
       <li>
         <p>
-          Section 7.1 to give a foundation for the t-distribution.
+          <xref ref="oneSampleMeansWithTDistribution">Section 7.1</xref> to give a foundation for the t-distribution.
         </p>
       </li>
       <li>
         <p>
-          Chapter 8 for establishing ideas and principles for single predictor regression.
+          <xref ref="ch-simple-linear-regression">Chapter 8</xref> for establishing ideas and principles for single predictor regression.
         </p>
       </li>
     </ul>
