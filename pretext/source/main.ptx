@@ -122,7 +122,7 @@
     </ul>
   </introduction>
 
-  <section xml:id="preface-textbook-overview">
+  <subsection xml:id="preface-textbook-overview">
     <title>Textbook Overview</title>
     <p>The chapters of this book are as follows:</p>
     <ol>
@@ -229,9 +229,9 @@
         </p>
       </li>
     </ul>
-  </section>
+  </subsection>
 
-  <section xml:id="preface-examples-exercises">
+  <subsection xml:id="preface-examples-exercises">
     <title>Examples and Exercises</title>
 
     <p>
@@ -271,9 +271,9 @@
       at the end of each chapter. Solutions are given for odd-numbered exercises in 
       <xref ref="appendix-solutions"/>.
     </p>
-  </section>
+  </subsection>
 
-  <section xml:id="preface-additional-resources">
+  <subsection xml:id="preface-additional-resources">
     <title>Additional Resources</title>
 
     <p>
@@ -303,7 +303,7 @@
       Statistics that has been heavily customized by Leah Dorazio for high school 
       courses and AP<registered/> Statistics.
     </p>
-  </section>
+  </subsection>
 
 </preface>
 
