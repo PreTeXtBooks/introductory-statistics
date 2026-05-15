@@ -128,48 +128,48 @@
 <ol>
   <li>
     <p>
-      <xref ref="ch-intro-to-data"/>
+      <xref ref="ch-intro-to-data">Introduction to data</xref>
       Data structures, variables, and basic data 
       collection techniques.
     </p>
   </li>
   <li>
     <p>
-      <xref ref="ch-summarizing-data"/>
+      <xref ref="ch-summarizing-data">Summarizing data</xref>
       Data summaries, graphics, and a teaser of 
       inference using randomization.
     </p>
   </li>
   <li>
     <p>
-      <xref ref="ch-probability"/>
+      <xref ref="ch-probability">Probability</xref>
       Basic principles of probability.
     </p>
   </li>
   <li>
     <p>
-      <xref ref="ch-distributions"/>
+<xref ref="ch-distributions">Distributions of random variables</xref>
       The normal model and other 
       key distributions.
     </p>
   </li>
   <li>
     <p>
-      <xref ref="ch-foundations-for-inference"/>
+<xref ref="ch-foundations-for-inference">Foundations for inference</xref>
       General ideas for statistical inference 
       in the context of estimating the population proportion.
     </p>
   </li>
   <li>
     <p>
-      <xref ref="ch-inference-for-props"/>
+<xref ref="ch-inference-for-props">Inference for categorical data</xref>
       Inference for proportions and 
       tables using the normal and chi-square distributions.
     </p>
   </li>
   <li>
     <p>
-      <xref ref="ch-inference-for-means"/>
+<xref ref="ch-inference-for-means">Inference for numerical data</xref>
       Inference for one or two sample 
       means using the t-distribution, statistical power for comparing two groups, 
       and also comparisons of many means using ANOVA.
@@ -177,7 +177,7 @@
   </li>
   <li>
     <p>
-      <xref ref="ch-simple-linear-regression"/>
+<xref ref="ch-simple-linear-regression">Introduction to linear regression</xref>
       Regression for a numerical 
       outcome with one predictor variable. Most of this chapter could be covered 
       after <xref ref="ch-intro-to-data"/>.
@@ -185,8 +185,8 @@
   </li>
   <li>
     <p>
-      <xref ref="ch-multiple-logistic-regression"/>
-      Regression for numerical and 
+<xref ref="ch-multiple-logistic-regression">Multiple and logistic regression</xref>
+Regression for numerical and 
       categorical data using many predictors.
     </p>
   </li>
