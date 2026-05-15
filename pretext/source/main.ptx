@@ -96,29 +96,31 @@
 <preface xml:id="preface">
   <title>Preface</title>
 
-  <p>
-    OpenIntro Statistics covers a first course in statistics, providing a rigorous 
-    introduction to applied statistics that is clear, concise, and accessible. This 
-    book was written with the undergraduate level in mind, but it's also popular in 
-    high schools and graduate courses.
-  </p>
+  <introduction>
+    <p>
+      OpenIntro Statistics covers a first course in statistics, providing a rigorous 
+      introduction to applied statistics that is clear, concise, and accessible. This 
+      book was written with the undergraduate level in mind, but it's also popular in 
+      high schools and graduate courses.
+    </p>
 
-  <p>
-    We hope readers will take away three ideas from this book in addition to forming 
-    a foundation of statistical thinking and methods.
-  </p>
+    <p>
+      We hope readers will take away three ideas from this book in addition to forming 
+      a foundation of statistical thinking and methods.
+    </p>
 
-  <ul>
-    <li><p>Statistics is an applied field with a wide range of practical applications.</p></li>
-    <li><p>You don't have to be a math guru to learn from real, interesting data.</p></li>
-    <li>
-      <p>
-        Data are messy, and statistical tools are imperfect. But, when you understand 
-        the strengths and weaknesses of these tools, you can use them to learn about 
-        the world.
-      </p>
-    </li>
-  </ul>
+    <ul>
+      <li><p>Statistics is an applied field with a wide range of practical applications.</p></li>
+      <li><p>You don't have to be a math guru to learn from real, interesting data.</p></li>
+      <li>
+        <p>
+          Data are messy, and statistical tools are imperfect. But, when you understand 
+          the strengths and weaknesses of these tools, you can use them to learn about 
+          the world.
+        </p>
+      </li>
+    </ul>
+  </introduction>
 
   <section xml:id="preface-textbook-overview">
     <title>Textbook Overview</title>
