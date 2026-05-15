@@ -28,18 +28,15 @@
       <titlepage>
         <author>
           <personname>David Diez</personname>
-          <institution>Data Scientist, </institution>
-          <department>OpenIntro</department>
+          <institution>Data Scientist, OpenIntro</institution>
         </author>
         <author>
           <personname>Mine Çetinkaya-Rundel</personname>
-          <institution>Associate Professor of the Practice, Duke University, </institution>
-          <department>Professional Educator, RStudio</department>
+          <institution>Associate Professor of the Practice, Duke University, Professional Educator, RStudio</institution>
         </author>
         <author>
           <personname>Christopher D Barr</personname>
-          <institution>Investment Analyst, </institution>
-          <department>Varadero Capital</department>
+          <institution>Investment Analyst, Varadero Capital</institution>
         </author>
       </titlepage>
 
