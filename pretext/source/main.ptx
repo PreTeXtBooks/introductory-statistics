@@ -12,17 +12,12 @@
       \pgfplotsset{compat=1.15}
     </latex-image-preamble>
     
-    <document-id>openintro-statistics</document-id>
-    
-    <blurb shelf="Statistics">
-      OpenIntro Statistics is a free, open-source textbook that provides a complete introduction to statistics. This book is now available in PreTeXt format!
-    </blurb>
+    <document-id>introductory-statistics</document-id>
     
   </docinfo>
 
-  <book xml:id="openintro-statistics">
-    <title>OpenIntro Statistics</title>
-    <subtitle>Fourth Edition</subtitle>
+  <book xml:id="introductory-statistics">
+    <title>Introductory Statistics</title>
 
     <frontmatter xml:id="frontmatter">
       <titlepage>
@@ -95,7 +90,7 @@
 
   <introduction>
     <p>
-      OpenIntro Statistics covers a first course in statistics, providing a rigorous 
+      This book covers a first course in statistics, providing a rigorous 
       introduction to applied statistics that is clear, concise, and accessible. This 
       book was written with the undergraduate level in mind, but it's also popular in 
       high schools and graduate courses.
@@ -190,7 +185,7 @@ Regression for numerical and
 </ol>
 
 <p>
-  OpenIntro Statistics supports flexibility in choosing and ordering topics. If 
+  Introductory Statistics supports flexibility in choosing and ordering topics. If 
   the main goal is to reach multiple regression (<xref ref="ch-multiple-logistic-regression"/>)
   as quickly as possible, 
   then the following are the ideal prerequisites:
