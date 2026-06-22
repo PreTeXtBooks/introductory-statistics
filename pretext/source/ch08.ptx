@@ -1752,7 +1752,7 @@
       </assemblage>
 
       <p>
-        On the topic of intervals in this book, we've focused exclusively on confidence intervals for model parameters. However, there are other types of intervals that may be of interest, including <term>prediction intervals</term> for a response value and also confidence intervals for a <term>mean response value</term> in the context of regression. These two interval types are introduced in an online extra that you may download at <url href="https://www.openintro.org/d?file=stat_extra_linear_regression_supp" visual="www.openintro.org/d?file=stat_extra_linear_regression_supp">www.openintro.org/d?file=stat_extra_linear_regression_supp</url>
+        On the topic of intervals in this book, we've focused exclusively on confidence intervals for model parameters. However, there are other types of intervals that may be of interest, including <term>prediction intervals</term> for a response value and also confidence intervals for a <term>mean response value</term> in the context of regression. These two interval types are introduced in an online extra supplied by OpenIntro that you may download at <url href="https://www.openintro.org/d?file=stat_extra_linear_regression_supp" visual="www.openintro.org/d?file=stat_extra_linear_regression_supp">www.openintro.org/d?file=stat_extra_linear_regression_supp</url>
       </p>
     </subsection>
 
