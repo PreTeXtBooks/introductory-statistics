@@ -251,7 +251,7 @@
         We've spent a lot of time discussing conditions for when <m>\hat{p}</m> can be reasonably modeled by a normal distribution. What happens when the success-failure condition fails? What about when the independence condition fails? In either case, the general ideas of confidence intervals and hypothesis tests remain the same, but the strategy or technique used to generate the interval or p-value change.
       </p>
       <p>
-        When the success-failure condition isn't met for a hypothesis test, we can simulate the null distribution of <m>\hat{p}</m> using the null value, <m>p_0</m>. The simulation concept is similar to the ideas used in the malaria case study presented in 5.1, and an online section outlines this strategy: <url href="http://www.openintro.org/r?go=stat_sim_prop_ht">www.openintro.org/r?go=stat_sim_prop_ht</url>
+        When the success-failure condition isn't met for a hypothesis test, we can simulate the null distribution of <m>\hat{p}</m> using the null value, <m>p_0</m>. The simulation concept is similar to the ideas used in the malaria case study presented in 5.1, and an online section by OpenIntro outlines this strategy: <url href="http://www.openintro.org/r?go=stat_sim_prop_ht">www.openintro.org/r?go=stat_sim_prop_ht</url>
       </p>
       <p>
         For a confidence interval when the success-failure condition isn't met, we can use what's called the <term>Clopper-Pearson interval</term>. The details are beyond the scope of this book. However, there are many internet resources covering this topic.
@@ -2856,7 +2856,7 @@
         <title>Website experiment.</title>
         <statement>
           <p>
-            The OpenIntro website occasionally experiments with design and link placement. We conducted one experiment testing three different placements of a download link for this textbook on the book's main page to see which location, if any, led to the most downloads. The number of site visitors included in the experiment was 701 and is captured in one of the response combinations in the following table:
+            The OpenIntro website occasionally experiments with design and link placement. They conducted one experiment testing three different placements of a download link for this textbook on the book's main page to see which location, if any, led to the most downloads. The number of site visitors included in the experiment was 701 and is captured in one of the response combinations in the following table:
           </p>
           <table>
             <tabular halign="center">
