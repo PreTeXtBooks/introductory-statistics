@@ -121,7 +121,7 @@
       <figure xml:id="fig-solar-poll-r-code">
         <caption>For those curious, this is code for a single <m>\hat{p}</m> simulation using the
         statistical software called R. Each line that starts with <c>#</c> is a <em>code comment</em>,
-        which is used to describe in regular language what the code is doing. The OpenIntro team has provided
+        which is used to describe in regular language what the code is doing. OpenIntro has provided
         software labs in R at <url href="https://www.openintro.org/book/os">openintro.org/book/os</url>
         for anyone interested in learning more.</caption>
         <program language="r">
