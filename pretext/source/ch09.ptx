@@ -1968,7 +1968,7 @@
       </assemblage>
       
       <p>
-        Don't report results when conditions are grossly violated. While there is a little leeway in model conditions, don't go too far. If model conditions are very clearly violated, consider a new model, even if it means learning more statistical methods or hiring someone who can help. To help you get started, we've developed a couple additional sections that you may find on OpenIntro's website. These sections provide a light introduction to what are called <term>interaction terms</term> and to fitting <term>nonlinear curves</term> to data, respectively:
+        Don't report results when conditions are grossly violated. While there is a little leeway in model conditions, don't go too far. If model conditions are very clearly violated, consider a new model, even if it means learning more statistical methods or hiring someone who can help. To help you get started, OpenIntro developed a couple additional sections that you may find on their website. These sections provide a light introduction to what are called <term>interaction terms</term> and to fitting <term>nonlinear curves</term> to data, respectively:
       </p>
       
       <p>
