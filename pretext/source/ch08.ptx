@@ -1531,7 +1531,7 @@
       <p>
         To assess the validity of this claim, we can compile historical data and look for a connection. We consider every midterm election from 1898 to 2018, with the exception of those elections during the Great Depression. <xref ref="fig-unemploymentAndChangeInHouse"/> shows these data and the least-squares regression line:
         <md>
-          <mrow>\amp\text{% change in House seats for President's party}</mrow>
+          <mrow>\amp\text{\% change in House seats for President's party}</mrow>
           <mrow>\amp\qquad\qquad= -7.36 - 0.89 \times \text{(unemployment rate)}</mrow>
         </md>
         We consider the percent change in the number of seats of the President's party (e.g. percent change in the number of seats for Republicans in 2018) against the unemployment rate.

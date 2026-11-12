@@ -710,7 +710,7 @@
             <mrow>\hat{p}_{t} - \hat{p}_{c} = \frac{14}{40} - \frac{11}{50} = 0.35 - 0.22 = 0.13</mrow>
           </md>
           <p>
-            We use the standard error formula provided in <xref ref="assem-sampling-dist-p1-p2"/>. As with the one-sample proportion case, we use the sample estimates of each proportion in the formula in the confidence interval context:
+            We use the standard error formula provided in <xref ref="assem-sampling-dist-p1-p2" text="title"/>. As with the one-sample proportion case, we use the sample estimates of each proportion in the formula in the confidence interval context:
           </p>
           <md>
             <mrow>SE \approx \sqrt{\frac{0.35 (1 - 0.35)}{40} + \frac{0.22 (1 - 0.22)}{50}} = 0.095</mrow>

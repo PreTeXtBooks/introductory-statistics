@@ -248,7 +248,7 @@
       <title>Exercise 43</title>
       <p>
         <ol marker="(a)">
-          <li>Categorical, non-ordinal: County, State, Driver's race. Numerical, discrete: No. of stops per year. Numerical, continuous: \% searched, \% drivers arrested.</li>
+          <li>Categorical, non-ordinal: County, State, Driver's race. Numerical, discrete: No. of stops per year. Numerical, continuous: % searched, % drivers arrested.</li>
           <li>All categorical, non-ordinal.</li>
           <li>Response: whether the car was searched or not. Explanatory: race of the driver.</li>
         </ol>
@@ -442,7 +442,7 @@
       <title>Exercise 3</title>
       <p>
         <ol marker="(a)">
-          <li>10 tosses. Fewer tosses mean more variability in the sample fraction of heads, meaning there's a better chance of getting at least 60\% heads.</li>
+          <li>10 tosses. Fewer tosses mean more variability in the sample fraction of heads, meaning there's a better chance of getting at least 60% heads.</li>
           <li>100 tosses. More flips means the observed proportion of heads would often be closer to the average, 0.50, and therefore also above 0.40.</li>
           <li>100 tosses. With more flips, the observed proportion of heads would often be closer to the average, 0.50.</li>
           <li>10 tosses. Fewer flips would increase variability in the fraction of tosses that are heads.</li>
@@ -467,7 +467,7 @@
         <ol marker="(a)">
           <li>No, there are voters who are both independent and swing voters.</li>
           <li>[Figure: A Venn diagram is shown for variables &quot;Independent&quot; and &quot;Swing&quot;, where the two circles representing the variable are partially overlapping. The region of the &quot;Independent&quot; circle not overlapping the other circle is labeled with &quot;24&quot;. The region of the &quot;Swing&quot; circle not overlapping the other circle is labeled with &quot;12&quot;. The region where the two circles overlap is labeled with &quot;11&quot;.].</li>
-          <li>Each Independent voter is either a swing voter or not. Since 35\% of voters are Independents and 11\% are both Independent and swing voters, the other 24\% must not be swing voters.</li>
+          <li>Each Independent voter is either a swing voter or not. Since 35% of voters are Independents and 11% are both Independent and swing voters, the other 24% must not be swing voters.</li>
           <li>0.47.</li>
           <li>0.53.</li>
           <li>P(Independent) <m>\times</m> P(swing) = <m>0.35\times0.23 = 0.08</m>, which does not equal P(Independent and swing) = 0.11, so the events are dependent.</li>
@@ -556,7 +556,7 @@
     <solution>
       <title>Exercise 21</title>
       <p>
-        0.0714. Even when a patient tests positive for lupus, there is only a 7.14\% chance that he actually has lupus. House may be right. [Figure: A tree diagram with a primary branch &quot;Lupus&quot; and a secondary branch &quot;Result&quot; for the test of Lupus. The primary &quot;Lupus&quot; branching has two possibilities of &quot;Yes&quot; with probability 0.02 and &quot;No&quot; with probability 0.98. Each of these branches has two secondary branches. The &quot;Yes&quot; primary branch breaks into branches for &quot;Yes&quot; (for Result) that has a conditional probability of 0.98 with a Yes-and-Yes final probability of 0.0196, and a &quot;No&quot; secondary branch with a conditional probability of 0.02 with a Yes-and-No final probability of 0.0004. The &quot;No&quot; primary branch from &quot;Lupus&quot; has a secondary branch of &quot;Yes&quot; that has a conditional probability of 0.26 with a No-and-Yes final probability of 0.2548, and a &quot;No&quot; secondary branch with a conditional probability of 0.74 with a No-and-No final probability of 0.7252.]
+        0.0714. Even when a patient tests positive for lupus, there is only a 7.14% chance that he actually has lupus. House may be right. [Figure: A tree diagram with a primary branch &quot;Lupus&quot; and a secondary branch &quot;Result&quot; for the test of Lupus. The primary &quot;Lupus&quot; branching has two possibilities of &quot;Yes&quot; with probability 0.02 and &quot;No&quot; with probability 0.98. Each of these branches has two secondary branches. The &quot;Yes&quot; primary branch breaks into branches for &quot;Yes&quot; (for Result) that has a conditional probability of 0.98 with a Yes-and-Yes final probability of 0.0196, and a &quot;No&quot; secondary branch with a conditional probability of 0.02 with a Yes-and-No final probability of 0.0004. The &quot;No&quot; primary branch from &quot;Lupus&quot; has a secondary branch of &quot;Yes&quot; that has a conditional probability of 0.26 with a No-and-Yes final probability of 0.2548, and a &quot;No&quot; secondary branch with a conditional probability of 0.74 with a No-and-No final probability of 0.7252.]
       </p>
     </solution>
 
@@ -616,7 +616,7 @@
     <solution>
       <title>Exercise 33</title>
       <p>
-        5\% increase in value.
+        5% increase in value.
       </p>
     </solution>
 
@@ -659,8 +659,8 @@
       <title>Exercise 43</title>
       <p>
         <ol marker="(a)">
-          <li>E = \<m>3.90. SD = \</m>0.34.</li>
-          <li>E = \<m>27.30. SD = \</m>0.89.</li>
+          <li>E = $3.90. SD = $0.34.</li>
+          <li>E = $27.30. SD = $0.89.</li>
         </ol>
       </p>
     </solution>
@@ -688,10 +688,10 @@
       <title>Exercise 1</title>
       <p>
         <ol marker="(a)">
-          <li>8.85\%.</li>
-          <li>6.94\%.</li>
-          <li>58.86\%.</li>
-          <li>4.56\%. [Figure: A normal distribution centered at 0 where a smaller left tail of the distribution has been shaded at and below a location labeled -1.35.] [Figure: A normal distribution centered at 0 where a smaller right tail of the distribution has been shaded at and above a location labeled 1.48.] [Figure: A normal distribution centered at 0 where a central region has been shaded. The region that remains unshaded is a large left tail up to just below the mean and a small right tail also remains unshaded.] [Figure: A normal distribution centered at zero where the two tails below a value of -2 and above a value of 2 have been shaded.].</li>
+          <li>8.85%.</li>
+          <li>6.94%.</li>
+          <li>58.86%.</li>
+          <li>4.56%. [Figure: A normal distribution centered at 0 where a smaller left tail of the distribution has been shaded at and below a location labeled -1.35.] [Figure: A normal distribution centered at 0 where a smaller right tail of the distribution has been shaded at and above a location labeled 1.48.] [Figure: A normal distribution centered at 0 where a central region has been shaded. The region that remains unshaded is a large left tail up to just below the mean and a small right tail also remains unshaded.] [Figure: A normal distribution centered at zero where the two tails below a value of -2 and above a value of 2 have been shaded.].</li>
         </ol>
       </p>
     </solution>
@@ -730,7 +730,7 @@
       <p>
         <ol marker="(a)">
           <li><m>Z = 1.2</m>, <m>P(Z \gt 1.2) = 0.1151</m>.</li>
-          <li><m>Z= -1.28 \to 70.6\degree</m>F or colder.</li>
+          <li><m>Z= -1.28 \to 70.6^\circ</m>F or colder.</li>
         </ol>
       </p>
     </solution>
@@ -741,7 +741,7 @@
         <ol marker="(a)">
           <li><m>N(25, 2.78)</m>.</li>
           <li><m>Z = 1.08</m>, <m>P(Z \gt 1.08) = 0.1401</m>.</li>
-          <li>The answers are very close because only the units were changed. (The only reason why they differ at all because 28\degree C is 82.4\degree F, not precisely 83\degree F.).</li>
+          <li>The answers are very close because only the units were changed. (The only reason why they differ at all because 28<degree/>C is 82.4<degree/>F, not precisely 83<degree/>F.).</li>
           <li>Since <m>IQR = Q3 - Q1</m>, we first need to find <m>Q3</m> and <m>Q1</m> and take the difference between the two. Remember that <m>Q3</m> is the <m>75^{th}</m> and <m>Q1</m> is the <m>25^{th}</m> percentile of a distribution. Q1 = 23.13, Q3 = 26.86, IQR = 26. 86 - 23.13 = 3.73.</li>
         </ol>
       </p>
@@ -884,7 +884,7 @@
     <solution>
       <title>Exercise 35</title>
       <p>
-        0 wins (-\<m>3): 0.1458. 1 win (-\</m>1): 0.3936. 2 wins (+\<m>1): 0.3543. 3 wins (+\</m>3): 0.1063.
+        0 wins (-$3): 0.1458. 1 win (-$1): 0.3936. 2 wins (+$1): 0.3543. 3 wins (+$3): 0.1063.
       </p>
     </solution>
 
@@ -900,8 +900,8 @@
       <p>
         <ol marker="(a)">
           <li><m>Z=0.67</m>.</li>
-          <li><m>\mu=\</m>1650<m>, </m>x=\<m>1800</m>.</li>
-          <li><m>0.67 = \frac{1800-1650}{\sigma} \to \sigma=\</m>223.88$.</li>
+          <li><m>\mu=\$1650</m>, <m>x=\$1800</m>.</li>
+          <li><m>0.67 = \frac{1800-1650}{\sigma} \to \sigma=\$223.88</m>.</li>
         </ol>
       </p>
     </solution>
@@ -922,7 +922,7 @@
     <solution>
       <title>Exercise 43</title>
       <p>
-        <m>Z = 1.56</m>, <m>P(Z \gt 1.56) = 0.0594</m>, i.e. 6\%.
+        <m>Z = 1.56</m>, <m>P(Z \gt 1.56) = 0.0594</m>, i.e. 6%.
       </p>
     </solution>
 
@@ -934,7 +934,7 @@
           <li>If you are bidding on only one auction and set a low maximum bid price, someone will probably outbid you. If you set a high maximum bid price, you may win the auction but pay more than is necessary. If bidding on more than one auction, and you set your maximum bid price very low, you probably won't win any of the auctions. However, if the maximum bid price is even modestly high, you are likely to win multiple auctions.</li>
           <li>An answer roughly equal to the 10th percentile would be reasonable. Regrettably, no percentile cutoff point guarantees beyond any possible event that you win at least one auction. However, you may pick a higher percentile if you want to be more sure of winning an auction.</li>
           <li>Answers will vary a little but should correspond to the answer in part.</li>
-          <li>. We use the 10<m>^{th}</m> percentile: <m>Z = -1.28 \to \</m>69.80$.</li>
+          <li>. We use the 10<m>^{th}</m> percentile: <m>Z = -1.28 \to \$69.80</m>.</li>
         </ol>
       </p>
     </solution>
@@ -990,7 +990,7 @@
       <p>
         <ol marker="(a)">
           <li>Sampling distribution.</li>
-          <li>If the population proportion is in the 5-30\% range, the success-failure condition would be satisfied and the sampling distribution would be symmetric.</li>
+          <li>If the population proportion is in the 5-30% range, the success-failure condition would be satisfied and the sampling distribution would be symmetric.</li>
           <li>We use the formula for the standard error: <m>SE = \sqrt{\frac{p (1 - p)}{n}} = \sqrt{\frac{0.08 (1 - 0.08)}{800}} = 0.0096</m>.</li>
           <li>Standard error.</li>
           <li>The distribution will tend to be more variable when we have fewer observations per sample.</li>
@@ -1001,7 +1001,7 @@
     <solution>
       <title>Exercise 7</title>
       <p>
-        Recall that the general formula is <m>point estimate \pm z^{\star} \times SE</m>. First, identify the three different values. The point estimate is 45\%, <m>z^{\star} = 1.96</m> for a 95\% confidence level, and <m>SE = 1.2\%</m>. Then, plug the values into the formula: <m> 45\% \pm 1.96 \times 1.2\% \quad\to\quad (42.6\%, 47.4\%) </m> We are 95\% confident that the proportion of US adults who live with one or more chronic conditions is between 42.6\% and 47.4\%.
+        Recall that the general formula is <m>point estimate \pm z^{\star} \times SE</m>. First, identify the three different values. The point estimate is 45%, <m>z^{\star} = 1.96</m> for a 95% confidence level, and <m>SE = 1.2\%</m>. Then, plug the values into the formula: <m> 45\% \pm 1.96 \times 1.2\% \quad\to\quad (42.6\%, 47.4\%) </m> We are 95% confident that the proportion of US adults who live with one or more chronic conditions is between 42.6% and 47.4%.
       </p>
     </solution>
 
@@ -1009,9 +1009,9 @@
       <title>Exercise 9</title>
       <p>
         <ol marker="(a)">
-          <li>False. Confidence intervals provide a range of plausible values, and sometimes the truth is missed. A 95\% confidence interval <q>misses</q> about 5\% of the time.</li>
+          <li>False. Confidence intervals provide a range of plausible values, and sometimes the truth is missed. A 95% confidence interval <q>misses</q> about 5% of the time.</li>
           <li>True. Notice that the description focuses on the true population value.</li>
-          <li>True. If we examine the 95\% confidence interval computed in Exercise \ref{chronic_illness_intro}, we can see that 50\% is not included in this interval. This means that in a hypothesis test, we would reject the null hypothesis that the proportion is 0.5.</li>
+          <li>True. If we examine the 95% confidence interval computed in <xref ref="ex-chronic-illness-intro"/>, we can see that 50% is not included in this interval. This means that in a hypothesis test, we would reject the null hypothesis that the proportion is 0.5.</li>
           <li>False. The standard error describes the uncertainty in the overall estimate from natural fluctuations due to randomness, not the uncertainty corresponding to individuals' responses.</li>
         </ol>
       </p>
@@ -1036,8 +1036,8 @@
       <p>
         <ol marker="(a)">
           <li>The visitors are from a simple random sample, so independence is satisfied. The success-failure condition is also satisfied, with both 64 and <m>752 - 64 = 688</m> above 10. Therefore, we can use a normal distribution to model <m>\hat{p}</m> and construct a confidence interval.</li>
-          <li>The sample proportion is <m>\hat{p} = \frac{64}{752} = 0.085</m>. The standard error is {\footnotesize[Math: SE &amp;= \sqrt{\frac{p (1 - p)}{n}} \approx \sqrt{\frac{\hat{p} (1 - \hat{p})}{n}} &amp;= \sqrt{\frac{0.085 (1 - 0.085)}{752}} = 0.010 ]}%.</li>
-          <li>For a 90\% confidence interval, use <m>z^{\star} = 1.6449</m>. The confidence interval is <m>0.085 \pm 1.6449 \times 0.010 \to (0.0683, 0.1017)</m>. We are 90\% confident that 6.83\% to 10.17\% of first-time site visitors will register using the new design.</li>
+          <li>The sample proportion is <m>\hat{p} = \frac{64}{752} = 0.085</m>. The standard error is <m>SE = \sqrt{\frac{p (1 - p)}{n}} \approx \sqrt{\frac{\hat{p} (1 - \hat{p})}{n}} = \sqrt{\frac{0.085 (1 - 0.085)}{752}} = 0.010</m>.</li>
+          <li>For a 90% confidence interval, use <m>z^{\star} = 1.6449</m>. The confidence interval is <m>0.085 \pm 1.6449 \times 0.010 \to (0.0683, 0.1017)</m>. We are 90% confident that 6.83% to 10.17% of first-time site visitors will register using the new design.</li>
         </ol>
       </p>
     </solution>
@@ -1063,9 +1063,9 @@
       <title>Exercise 19</title>
       <p>
         <ol marker="(a)">
-          <li>This claim is reasonable, since the entire interval lies above 50\%.</li>
-          <li>The value of 70\% lies outside of the interval, so we have convincing evidence that the researcher's conjecture is wrong.</li>
-          <li>A 90\% confidence interval will be narrower than a 95\% confidence interval. Even without calculating the interval, we can tell that 70\% would not fall in the interval, and we would reject the researcher's conjecture based on a 90\% confidence level as well.</li>
+          <li>This claim is reasonable, since the entire interval lies above 50%.</li>
+          <li>The value of 70% lies outside of the interval, so we have convincing evidence that the researcher's conjecture is wrong.</li>
+          <li>A 90% confidence interval will be narrower than a 95% confidence interval. Even without calculating the interval, we can tell that 70% would not fall in the interval, and we would reject the researcher's conjecture based on a 90% confidence level as well.</li>
         </ol>
       </p>
     </solution>
@@ -1074,7 +1074,7 @@
       <title>Exercise 21</title>
       <p>
         <ol marker="(a)">
-          <li>Set up hypotheses. <m>H_0</m>: <m>p = 0.5</m>, <m>H_A</m>: <m>p \neq 0.5</m>. We will use a significance level of <m>\alpha = 0.05</m>. (ii) Check conditions: simple random sample gets us independence, and the success-failure conditions is satisfied since <m>0.5 \times 1000 = 500</m> for each group is at least 10. (iii) Next, we calculate: <m>SE = \sqrt{0.5 (1 - 0.5) / 1000} = 0.016</m>. <m>Z = \frac{0.42 - 0.5}{0.016} = -5</m>, which has a one-tail area of about 0.0000003, so the p-value is twice this one-tail area at 0.0000006. (iv) Make a conclusion: Because the p-value is less than <m>\alpha = 0.05</m>, we reject the null hypothesis and conclude that the fraction of US adults who believe raising the minimum wage will help the economy is not 50\%. Because the observed value is less than 50\% and we have rejected the null hypothesis, we can conclude that this belief is held by fewer than 50\% of US adults. (For reference, the survey also explores support for changing the minimum wage, which is a different question than if it will help the economy.).</li>
+          <li>Set up hypotheses. <m>H_0</m>: <m>p = 0.5</m>, <m>H_A</m>: <m>p \neq 0.5</m>. We will use a significance level of <m>\alpha = 0.05</m>. (ii) Check conditions: simple random sample gets us independence, and the success-failure conditions is satisfied since <m>0.5 \times 1000 = 500</m> for each group is at least 10. (iii) Next, we calculate: <m>SE = \sqrt{0.5 (1 - 0.5) / 1000} = 0.016</m>. <m>Z = \frac{0.42 - 0.5}{0.016} = -5</m>, which has a one-tail area of about 0.0000003, so the p-value is twice this one-tail area at 0.0000006. (iv) Make a conclusion: Because the p-value is less than <m>\alpha = 0.05</m>, we reject the null hypothesis and conclude that the fraction of US adults who believe raising the minimum wage will help the economy is not 50%. Because the observed value is less than 50% and we have rejected the null hypothesis, we can conclude that this belief is held by fewer than 50% of US adults. (For reference, the survey also explores support for changing the minimum wage, which is a different question than if it will help the economy.).</li>
         </ol>
       </p>
     </solution>
@@ -1101,7 +1101,7 @@
       <title>Exercise 27</title>
       <p>
         <ol marker="(a)">
-          <li>We are 95\% confident that Americans spend an average of 1.38 to 1.92 hours per day relaxing or pursuing activities they enjoy.</li>
+          <li>We are 95% confident that Americans spend an average of 1.38 to 1.92 hours per day relaxing or pursuing activities they enjoy.</li>
           <li>Their confidence level must be higher as the width of the confidence interval increases as the confidence level increases.</li>
           <li>The new margin of error will be smaller, since as the sample size increases, the standard error decreases, which will decrease the margin of error.</li>
         </ol>
@@ -1127,7 +1127,7 @@
       <p>
         <ol marker="(a)">
           <li><m>H_0: p_{unemp} = p_{underemp}</m>: The proportions of unemployed and underemployed people who are having relationship problems are equal. <m>H_A: p_{unemp} \ne p{underemp}</m>: The proportions of unemployed and underemployed people who are having relationship problems are different.</li>
-          <li>If in fact the two population proportions are equal, the probability of observing at least a 2\% difference between the sample proportions is approximately 0.35. Since this is a high probability we fail to reject the null hypothesis. The data do not provide convincing evidence that the proportion of of unemployed and underemployed people who are having relationship problems are different.</li>
+          <li>If in fact the two population proportions are equal, the probability of observing at least a 2% difference between the sample proportions is approximately 0.35. Since this is a high probability we fail to reject the null hypothesis. The data do not provide convincing evidence that the proportion of of unemployed and underemployed people who are having relationship problems are different.</li>
         </ol>
       </p>
     </solution>
@@ -1150,8 +1150,20 @@
       <title>Exercise 37</title>
       <p>
         <ol marker="(a)">
-          <li>In effect, we're checking whether men are paid more than women (or vice-versa), and we'd expect these outcomes with either chance under the null hypothesis: [Math: &amp;H_0: p = 0.5 &amp;&amp;H_A: p \neq 0.5 ] We'll use <m>p</m> to represent the fraction of cases where men are paid more than women.</li>
-          <li>Below is the completion of the hypothesis test. \begin{itemize} \item There isn't a good way to check independence here since the jobs are not a simple random sample. However, independence doesn't seem unreasonable, since the individuals in each job are different from each other. The success-failure condition is met since we check it using the null proportion: <m>p_0 n = (1 - p_0) n = 10.5</m> is greater than 10. \item We can compute the sample proportion, <m>SE</m>, and test statistic: [Math: \hat{p} &amp;= 19 / 21 = 0.905 SE &amp;= \sqrt{\frac{0.5 \times (1 - 0.5)}{21}} = 0.109 Z &amp;= \frac{0.905 - 0.5}{0.109} = 3.72 ] The test statistic <m>Z</m> corresponds to an upper tail area of about 0.0001, so the p-value is 2 times this value: 0.0002. \item Because the p-value is smaller than 0.05, we reject the notion that all these gender pay disparities are due to chance. Because we observe that men are paid more in a higher proportion of cases and we have rejected <m>H_0</m>, we can conclude that men are being paid higher amounts in ways not explainable by chance alone. \end{itemize} If you're curious for more info around this topic, including a discussion about adjusting for additional factors that affect pay, please see the following video by Healthcare Triage: \oiRedirect{textbook-yt_healthcare_triage_gender_pay_gap} {youtu.be/aVhgKSULNQA}.</li>
+          <li>In effect, we're checking whether men are paid more than women (or vice-versa), and we'd expect these outcomes with either chance under the null hypothesis: <me>H_0: p = 0.5 \qquad H_A: p \neq 0.5</me> We'll use <m>p</m> to represent the fraction of cases where men are paid more than women.</li>
+          <li><p>Below is the completion of the hypothesis test.</p>
+<ul>
+<li>There isn't a good way to check independence here since the jobs are not a simple random sample. However, independence doesn't seem unreasonable, since the individuals in each job are different from each other. The success-failure condition is met since we check it using the null proportion: <m>p_0 n = (1 - p_0) n = 10.5</m> is greater than 10.</li>
+<li>We can compute the sample proportion, <m>SE</m>, and test statistic:
+<md>
+<mrow>\hat{p} \amp= 19 / 21 = 0.905</mrow>
+<mrow>SE \amp= \sqrt{\frac{0.5 \times (1 - 0.5)}{21}} = 0.109</mrow>
+<mrow>Z \amp= \frac{0.905 - 0.5}{0.109} = 3.72</mrow>
+</md>
+The test statistic <m>Z</m> corresponds to an upper tail area of about 0.0001, so the p-value is 2 times this value: 0.0002.</li>
+<li>Because the p-value is smaller than 0.05, we reject the notion that all these gender pay disparities are due to chance. Because we observe that men are paid more in a higher proportion of cases and we have rejected <m>H_0</m>, we can conclude that men are being paid higher amounts in ways not explainable by chance alone.</li>
+</ul>
+<p>If you're curious for more info around this topic, including a discussion about adjusting for additional factors that affect pay, please see the following video by Healthcare Triage: <url href="https://youtu.be/aVhgKSULNQA">youtu.be/aVhgKSULNQA</url>.</p></li>
         </ol>
       </p>
     </solution>
@@ -1192,10 +1204,10 @@
       <p>
         <ol marker="(a)">
           <li>False. A confidence interval is constructed to estimate the population proportion, not the sample proportion.</li>
-          <li>True. 95\% CI: <m>82\%\ \pm\ 2\%</m>.</li>
+          <li>True. 95% CI: <m>82\%\ \pm\ 2\%</m>.</li>
           <li>True. By the definition of the confidence level.</li>
           <li>True. Quadrupling the sample size decreases the SE and ME by a factor of <m>1/\sqrt{4}</m>.</li>
-          <li>True. The 95\% CI is entirely above 50\%.</li>
+          <li>True. The 95% CI is entirely above 50%.</li>
         </ol>
       </p>
     </solution>
@@ -1212,9 +1224,9 @@
       <p>
         <ol marker="(a)">
           <li>No. The sample only represents students who took the SAT, and this was also an online survey.</li>
-          <li>(0.5289, 0.5711). We are 90\% confident that 53\% to 57\% of high school seniors who took the SAT are fairly certain that they will participate in a study abroad program in college.</li>
-          <li>90\% of such random samples would produce a 90\% confidence interval that includes the true proportion.</li>
-          <li>Yes. The interval lies entirely above 50\%.</li>
+          <li>(0.5289, 0.5711). We are 90% confident that 53% to 57% of high school seniors who took the SAT are fairly certain that they will participate in a study abroad program in college.</li>
+          <li>90% of such random samples would produce a 90% confidence interval that includes the true proportion.</li>
+          <li>Yes. The interval lies entirely above 50%.</li>
         </ol>
       </p>
     </solution>
@@ -1223,8 +1235,8 @@
       <title>Exercise 11</title>
       <p>
         <ol marker="(a)">
-          <li>We want to check for a majority (or minority), so we use the following hypotheses: [Math: &amp;H_0: p = 0.5 &amp;&amp;H_A: p \neq 0.5 ] We have a sample proportion of <m>\hat{p} = 0.55</m> and a sample size of <m>n = 617</m> independents. Since this is a random sample, independence is satisfied. The success-failure condition is also satisfied: <m>617 \times 0.5</m> and <m>617 \times (1 - 0.5)</m> are both at least 10 (we use the null proportion <m>p_0 = 0.5</m> for this check in a one-proportion hypothesis test). Therefore, we can model <m>\hat{p}</m> using a normal distribution with a standard error of [Math: SE = \sqrt{\frac{p(1 - p)}{n}} = 0.02 ] (We use the null proportion <m>p_0 = 0.5</m> to compute the standard error for a one-proportion hypothesis test.) Next, we compute the test statistic: [Math: Z = \frac{0.55 - 0.5}{0.02} = 2.5 ] This yields a one-tail area of 0.0062, and a p-value of <m>2 \times 0.0062 = 0.0124</m>. Because the p-value is smaller than 0.05, we reject the null hypothesis. We have strong evidence that the support is different from 0.5, and since the data provide a point estimate above 0.5, we have strong evidence to support this claim by the TV pundit.</li>
-          <li>No. Generally we expect a hypothesis test and a confidence interval to align, so we would expect the confidence interval to show a range of plausible values entirely above 0.5. However, if the confidence level is misaligned (e.g. a 99\% confidence level and a <m>\alpha = 0.05</m> significance level), then this is no longer generally true.</li>
+          <li>We want to check for a majority (or minority), so we use the following hypotheses: <me>H_0: p = 0.5 \qquad H_A: p \neq 0.5</me> We have a sample proportion of <m>\hat{p} = 0.55</m> and a sample size of <m>n = 617</m> independents. Since this is a random sample, independence is satisfied. The success-failure condition is also satisfied: <m>617 \times 0.5</m> and <m>617 \times (1 - 0.5)</m> are both at least 10 (we use the null proportion <m>p_0 = 0.5</m> for this check in a one-proportion hypothesis test). Therefore, we can model <m>\hat{p}</m> using a normal distribution with a standard error of <me>SE = \sqrt{\frac{p(1 - p)}{n}} = 0.02</me> (We use the null proportion <m>p_0 = 0.5</m> to compute the standard error for a one-proportion hypothesis test.) Next, we compute the test statistic: <me>Z = \frac{0.55 - 0.5}{0.02} = 2.5</me> This yields a one-tail area of 0.0062, and a p-value of <m>2 \times 0.0062 = 0.0124</m>. Because the p-value is smaller than 0.05, we reject the null hypothesis. We have strong evidence that the support is different from 0.5, and since the data provide a point estimate above 0.5, we have strong evidence to support this claim by the TV pundit.</li>
+          <li>No. Generally we expect a hypothesis test and a confidence interval to align, so we would expect the confidence interval to show a range of plausible values entirely above 0.5. However, if the confidence level is misaligned (e.g. a 99% confidence level and a <m>\alpha = 0.05</m> significance level), then this is no longer generally true.</li>
         </ol>
       </p>
     </solution>
@@ -1242,7 +1254,10 @@
     <solution>
       <title>Exercise 15</title>
       <p>
-        Because a sample proportion (<m>\hat{p} = 0.55</m>) is available, we use this for the sample size calculations. The margin of error for a 90\% confidence interval is <m>1.6449 \times SE = 1.6449 \times \sqrt{\frac{p(1 - p)}{n}}</m>. We want this to be less than 0.01, where we use <m>\hat{p}</m> in place of <m>p</m>: [Math: 1.6449 \times \sqrt{\frac{0.55(1 - 0.55)}{n}} \leq 0.01 1.6449^2 \frac{0.55(1 - 0.55)}{0.01^2} \leq n ] From this, we get that <m>n</m> must be at least 6697.
+        Because a sample proportion (<m>\hat{p} = 0.55</m>) is available, we use this for the sample size calculations. The margin of error for a 90% confidence interval is <m>1.6449 \times SE = 1.6449 \times \sqrt{\frac{p(1 - p)}{n}}</m>. We want this to be less than 0.01, where we use <m>\hat{p}</m> in place of <m>p</m>: <md>
+<mrow>1.6449 \times \sqrt{\frac{0.55(1 - 0.55)}{n}} \amp\leq 0.01</mrow>
+<mrow>1.6449^2 \frac{0.55(1 - 0.55)}{0.01^2} \amp\leq n</mrow>
+</md> From this, we get that <m>n</m> must be at least 6697.
       </p>
     </solution>
 
@@ -1270,7 +1285,7 @@
       <title>Exercise 21</title>
       <p>
         <ol marker="(a)">
-          <li>Standard error: [Math: SE = \sqrt{\frac{0.79(1 - 0.79)}{347} + \frac{0.55(1 - 0.55)}{617}} = 0.03 ] Using <m>z^{\star} = 1.96</m>, we get: [Math: 0.79 - 0.55 \pm 1.96 \times 0.03 \to (0.181, 0.299) ] We are 95\% confident that the proportion of Democrats who support the plan is 18.1\% to 29.9\% higher than the proportion of Independents who support the plan.</li>
+          <li>Standard error: <me>SE = \sqrt{\frac{0.79(1 - 0.79)}{347} + \frac{0.55(1 - 0.55)}{617}} = 0.03</me> Using <m>z^{\star} = 1.96</m>, we get: <me>0.79 - 0.55 \pm 1.96 \times 0.03 \to (0.181, 0.299)</me> We are 95% confident that the proportion of Democrats who support the plan is 18.1% to 29.9% higher than the proportion of Independents who support the plan.</li>
           <li>True.</li>
         </ol>
       </p>
@@ -1280,7 +1295,7 @@
       <title>Exercise 23</title>
       <p>
         <ol marker="(a)">
-          <li>College grads: 23.7\%. Non-college grads: 33.7\%.</li>
+          <li>College grads: 23.7%. Non-college grads: 33.7%.</li>
           <li>Let <m>p_{CG}</m> and <m>p_{NCG}</m> represent the proportion of college graduates and non-college graduates who responded <q>do not know</q>. <m>H_0: p_{CG} = p_{NCG}</m>. <m>H_A: p_{CG} \ne p_{NCG}</m>. Independence is satisfied (random sample), and the success-failure condition, which we would check using the pooled proportion (<m>\hat{p}_{\textit{pool}} = 235/827 = 0.284</m>), is also satisfied. <m>Z = -3.18</m> <m>\to</m> p-value = 0.0014. Since the p-value is very small, we reject <m>H_0</m>. The data provide strong evidence that the proportion of college graduates who do not have an opinion on this issue is different than that of non-college graduates. The data also indicate that fewer college grads say they <q>do not know</q> than non-college grads (i.e. the data indicate the direction after we reject <m>H_0</m>).</li>
         </ol>
       </p>
@@ -1290,7 +1305,7 @@
       <title>Exercise 25</title>
       <p>
         <ol marker="(a)">
-          <li>College grads: 35.2\%. Non-college grads: 33.9\%.</li>
+          <li>College grads: 35.2%. Non-college grads: 33.9%.</li>
           <li>Let <m>p_{CG}</m> and <m>p_{NCG}</m> represent the proportion of college graduates and non-college grads who support offshore drilling. <m>H_0: p_{CG} = p_{NCG}</m>. <m>H_A: p_{CG} \ne p_{NCG}</m>. Independence is satisfied (random sample), and the success-failure condition, which we would check using the pooled proportion (<m>\hat{p}_{\textit{pool}} = 286/827 = 0.346</m>), is also satisfied. <m>Z = 0.39</m> <m>\to</m> p-value <m>=0.6966</m>. Since the p-value <m>\gt \alpha</m> (0.05), we fail to reject <m>H_0</m>. The data do not provide strong evidence of a difference between the proportions of college graduates and non-college graduates who support off-shore drilling in California.</li>
         </ol>
       </p>
@@ -1307,7 +1322,14 @@
       <title>Exercise 29</title>
       <p>
         <ol marker="(a)">
-          <li>Summary of the study: \begin{center}\scriptsize \begin{tabular}{l l c c c} &amp; &amp; \multicolumn{2}{c}{\textit{Virol. failure}} &amp; \cline{3-4} &amp; &amp; Yes &amp; No &amp; Total \cline{2-5} \multirow{2}{*}{\textit{Treatment}} &amp; Nevaripine &amp; 26 &amp; 94 &amp; 120 &amp; Lopinavir &amp; 10 &amp; 110 &amp; 120 \cline{2-5} &amp; Total &amp; 36 &amp; 204 &amp; 240 \end{tabular} \end{center}.</li>
+          <li><p>Summary of the study:</p>
+<tabular halign="center">
+<row header="yes"><cell></cell><cell></cell><cell colspan="2"><em>Virol. failure</em></cell><cell></cell></row>
+<row header="yes" bottom="minor"><cell></cell><cell></cell><cell>Yes</cell><cell>No</cell><cell>Total</cell></row>
+<row><cell><em>Treatment</em></cell><cell>Nevaripine</cell><cell>26</cell><cell>94</cell><cell>120</cell></row>
+<row bottom="minor"><cell></cell><cell>Lopinavir</cell><cell>10</cell><cell>110</cell><cell>120</cell></row>
+<row><cell></cell><cell>Total</cell><cell>36</cell><cell>204</cell><cell>240</cell></row>
+</tabular></li>
           <li><m>H_0: p_N = p_L</m>. There is no difference in virologic failure rates between the Nevaripine and Lopinavir groups. <m>H_A: p_N \ne p_L</m>. There is some difference in virologic failure rates between the Nevaripine and Lopinavir groups.</li>
           <li>Random assignment was used, so the observations in each group are independent. If the patients in the study are representative of those in the general population (something impossible to check with the given information), then we can also confidently generalize the findings to the population. The success-failure condition, which we would check using the pooled proportion (<m>\hat{p}_{pool} = 36/240 = 0.15</m>), is satisfied. <m>Z = 2.89</m> <m>\to</m> p-value <m>=0.0039</m>. Since the p-value is low, we reject <m>H_0</m>. There is strong evidence of a difference in virologic failure rates between the Nevaripine and Lopinavir groups. Treatment and virologic failure do not appear to be independent.</li>
         </ol>
@@ -1343,7 +1365,15 @@
       <title>Exercise 35</title>
       <p>
         <ol marker="(a)">
-          <li>Two-way table: \begin{center}\scriptsize \begin{tabular}{l l c c c} &amp; \multicolumn{2}{c}{\textit{Quit}} &amp; \cline{2-3} \textit{Treatment} &amp; Yes &amp; No &amp; Total \hline Patch + support group &amp; 40 &amp; 110 &amp; 150 Only patch &amp; 30 &amp; 120 &amp; 150 \cline{1-4} Total &amp; 70 &amp; 230 &amp; 300 \cline{1-4} \end{tabular} \end{center} (b-i) <m>E_{row_1, col_1} = \frac{(row 1 total)\times(col 1 total)}{table total} = 35</m>. This is lower than the observed value. (b-ii) <m>E_{row_2, col_2} = \frac{(row 2 total)\times(col 2 total)}{table total} = 115</m>. This is lower than the observed value.</li>
+          <li><p>Two-way table:</p>
+<tabular halign="center">
+<row header="yes"><cell></cell><cell colspan="2"><em>Quit</em></cell><cell></cell></row>
+<row header="yes" bottom="minor"><cell><em>Treatment</em></cell><cell>Yes</cell><cell>No</cell><cell>Total</cell></row>
+<row><cell>Patch + support group</cell><cell>40</cell><cell>110</cell><cell>150</cell></row>
+<row bottom="minor"><cell>Only patch</cell><cell>30</cell><cell>120</cell><cell>150</cell></row>
+<row><cell>Total</cell><cell>70</cell><cell>230</cell><cell>300</cell></row>
+</tabular>
+<p>(b-i) <m>E_{row_1, col_1} = \frac{(row 1 total)\times(col 1 total)}{table total} = 35</m>. This is lower than the observed value. (b-ii) <m>E_{row_2, col_2} = \frac{(row 2 total)\times(col 2 total)}{table total} = 115</m>. This is lower than the observed value.</p></li>
         </ol>
       </p>
     </solution>
@@ -1351,7 +1381,11 @@
     <solution>
       <title>Exercise 37</title>
       <p>
-        <m>H_0</m>: The opinion of college grads and non-grads is not different on the topic of drilling for oil and natural gas off the coast of California. <m>H_A</m>: Opinions regarding the drilling for oil and natural gas off the coast of California has an association with earning a college degree. [Math: &amp;E_{row 1, col 1} = 151.5 &amp;&amp; E_{row 1, col 2} = 134.5 &amp;E_{row 2, col 1} = 162.1 &amp;&amp; E_{row 2, col 2} = 143.9 &amp;E_{row 3, col 1} = 124.5 &amp;&amp; E_{row 3, col 2} = 110.5 ] Independence: The samples are both random, unrelated, and from less than 10\% of the population, so independence between observations is reasonable. Sample size: All expected counts are at least 5. <m>\chi^2 = 11.47</m>, <m>df = 2</m> <m>\to</m> p-value = 0.003. Since the p-value <m>\lt \alpha</m>, we reject <m>H_0</m>. There is strong evidence that there is an association between support for off-shore drilling and having a college degree.
+        <m>H_0</m>: The opinion of college grads and non-grads is not different on the topic of drilling for oil and natural gas off the coast of California. <m>H_A</m>: Opinions regarding the drilling for oil and natural gas off the coast of California has an association with earning a college degree. <md>
+<mrow>E_{\text{row 1, col 1}} = 151.5 \amp\qquad E_{\text{row 1, col 2}} = 134.5</mrow>
+<mrow>E_{\text{row 2, col 1}} = 162.1 \amp\qquad E_{\text{row 2, col 2}} = 143.9</mrow>
+<mrow>E_{\text{row 3, col 1}} = 124.5 \amp\qquad E_{\text{row 3, col 2}} = 110.5</mrow>
+</md> Independence: The samples are both random, unrelated, and from less than 10% of the population, so independence between observations is reasonable. Sample size: All expected counts are at least 5. <m>\chi^2 = 11.47</m>, <m>df = 2</m> <m>\to</m> p-value = 0.003. Since the p-value <m>\lt \alpha</m>, we reject <m>H_0</m>. There is strong evidence that there is an association between support for off-shore drilling and having a college degree.
       </p>
     </solution>
 
@@ -1376,8 +1410,8 @@
       <title>Exercise 43</title>
       <p>
         <ol marker="(a)">
-          <li>Independence is satisfied (random sample), as is the success-failure condition (40 smokers, 160 non-smokers). The 95\% CI: (0.145, 0.255). We are 95\% confident that 14.5\% to 25.5\% of all students at this university smoke.</li>
-          <li>We want <m>z^{\star}SE</m> to be no larger than 0.02 for a 95\% confidence level. We use <m>z^{\star}=1.96</m> and plug in the point estimate <m>\hat{p}=0.2</m> within the SE formula: <m>1.96\sqrt{0.2(1-0.2)/n} \leq 0.02</m>. The sample size <m>n</m> should be at least 1,537.</li>
+          <li>Independence is satisfied (random sample), as is the success-failure condition (40 smokers, 160 non-smokers). The 95% CI: (0.145, 0.255). We are 95% confident that 14.5% to 25.5% of all students at this university smoke.</li>
+          <li>We want <m>z^{\star}SE</m> to be no larger than 0.02 for a 95% confidence level. We use <m>z^{\star}=1.96</m> and plug in the point estimate <m>\hat{p}=0.2</m> within the SE formula: <m>1.96\sqrt{0.2(1-0.2)/n} \leq 0.02</m>. The sample size <m>n</m> should be at least 1,537.</li>
         </ol>
       </p>
     </solution>
@@ -1388,10 +1422,10 @@
         <ol marker="(a)">
           <li>Proportion of graduates from this university who found a job within one year of graduating. <m>\hat{p} = 348/400 = 0.87</m>.</li>
           <li>This is a random sample, so the observations are independent. Success-failure condition is satisfied: 348 successes, 52 failures, both well above 10.</li>
-          <li>(0.8371, 0.9029). We are 95\% confident that approximately 84\% to 90\% of graduates from this university found a job within one year of completing their undergraduate degree.</li>
-          <li>95\% of such random samples would produce a 95\% confidence interval that includes the true proportion of students at this university who found a job within one year of graduating from college.</li>
+          <li>(0.8371, 0.9029). We are 95% confident that approximately 84% to 90% of graduates from this university found a job within one year of completing their undergraduate degree.</li>
+          <li>95% of such random samples would produce a 95% confidence interval that includes the true proportion of students at this university who found a job within one year of graduating from college.</li>
           <li>(0.8267, 0.9133). Similar interpretation as before.</li>
-          <li>99\% CI is wider, as we are more confident that the true proportion is within the interval and so need to cover a wider range.</li>
+          <li>99% CI is wider, as we are more confident that the true proportion is within the interval and so need to cover a wider range.</li>
         </ol>
       </p>
     </solution>
@@ -1399,7 +1433,7 @@
     <solution>
       <title>Exercise 47</title>
       <p>
-        Use a chi-squared goodness of fit test. <m>H_0</m>: Each option is equally likely. <m>H_A</m>: Some options are preferred over others. Total sample size: 99. Expected counts: (1/3) * 99 = 33 for each option. These are all above 5, so conditions are satisfied. <m>df = 3 - 1 = 2</m> and <m>\chi^2 = \frac{(43 - 33)^2}{33} + \frac{(21 - 33)^2}{33} + \frac{(35 - 33)^2}{33} = 7.52 \to</m> p-value <m>= 0.023</m>. Since the p-value is less than 5\%, we reject <m>H_0</m>. The data provide convincing evidence that some options are preferred over others.
+        Use a chi-squared goodness of fit test. <m>H_0</m>: Each option is equally likely. <m>H_A</m>: Some options are preferred over others. Total sample size: 99. Expected counts: (1/3) * 99 = 33 for each option. These are all above 5, so conditions are satisfied. <m>df = 3 - 1 = 2</m> and <m>\chi^2 = \frac{(43 - 33)^2}{33} + \frac{(21 - 33)^2}{33} + \frac{(35 - 33)^2}{33} = 7.52 \to</m> p-value <m>= 0.023</m>. Since the p-value is less than 5%, we reject <m>H_0</m>. The data provide convincing evidence that some options are preferred over others.
       </p>
     </solution>
 
@@ -1407,9 +1441,9 @@
       <title>Exercise 49</title>
       <p>
         <ol marker="(a)">
-          <li><m>H_0: p = 0.38</m>. <m>H_A: p \ne 0.38</m>. Independence (random sample) and the success-failure condition are satisfied. <m>Z=-20.5</m> <m>\to</m> p-value <m>\approx 0</m>. Since the p-value is very small, we reject <m>H_0</m>. The data provide strong evidence that the proportion of Americans who only use their cell phones to access the internet is different than the Chinese proportion of 38\%, and the data indicate that the proportion is lower in the US.</li>
-          <li>If in fact 38\% of Americans used their cell phones as a primary access point to the internet, the probability of obtaining a random sample of 2,254 Americans where 17\% or less or 59\% or more use their only their cell phones to access the internet would be approximately 0.</li>
-          <li>(0.1545, 0.1855). We are 95\% confident that approximately 15.5\% to 18.6\% of all Americans primarily use their cell phones to browse the internet.</li>
+          <li><m>H_0: p = 0.38</m>. <m>H_A: p \ne 0.38</m>. Independence (random sample) and the success-failure condition are satisfied. <m>Z=-20.5</m> <m>\to</m> p-value <m>\approx 0</m>. Since the p-value is very small, we reject <m>H_0</m>. The data provide strong evidence that the proportion of Americans who only use their cell phones to access the internet is different than the Chinese proportion of 38%, and the data indicate that the proportion is lower in the US.</li>
+          <li>If in fact 38% of Americans used their cell phones as a primary access point to the internet, the probability of obtaining a random sample of 2,254 Americans where 17% or less or 59% or more use their only their cell phones to access the internet would be approximately 0.</li>
+          <li>(0.1545, 0.1855). We are 95% confident that approximately 15.5% to 18.6% of all Americans primarily use their cell phones to browse the internet.</li>
         </ol>
       </p>
     </solution>
@@ -1466,7 +1500,10 @@
     <solution>
       <title>Exercise 9</title>
       <p>
-        <m>T</m> is either -2.09 or 2.09. Then <m>\bar{x}</m> is one of the following: [Math: -2.09 &amp;= \frac{\bar{x} - 60}{\frac{8}{\sqrt{20}}} \ \to \ \bar{x} = 56.26 2.09 &amp;= \frac{\bar{x} - 60}{\frac{8}{\sqrt{20}}} \ \to \ \bar{x} = 63.74 ]
+        <m>T</m> is either -2.09 or 2.09. Then <m>\bar{x}</m> is one of the following: <md>
+<mrow>-2.09 \amp= \frac{\bar{x} - 60}{\frac{8}{\sqrt{20}}} \ \to \ \bar{x} = 56.26</mrow>
+<mrow>2.09 \amp= \frac{\bar{x} - 60}{\frac{8}{\sqrt{20}}} \ \to \ \bar{x} = 63.74</mrow>
+</md>
       </p>
     </solution>
 
@@ -1475,7 +1512,7 @@
       <p>
         <ol marker="(a)">
           <li>We will conduct a 1-sample <m>t</m>-test. <m>H_0</m>: <m>\mu = 5</m>. <m>H_A</m>: <m>\mu \neq 5</m>. We'll use <m>\alpha = 0.05</m>. This is a random sample, so the observations are independent. To proceed, we assume the distribution of years of piano lessons is approximately normal. <m>SE = 2.2 / \sqrt{20} = 0.4919</m>. The test statistic is <m>T = (4.6 - 5) / SE = -0.81</m>. <m>df = 20 - 1 = 19</m>. The one-tail area is about 0.21, so the p-value is about 0.42, which is bigger than <m>\alpha = 0.05</m> and we do not reject <m>H_0</m>. That is, we do not have sufficiently strong evidence to reject the notion that the average is 5 years.</li>
-          <li>Using <m>SE = 0.4919</m> and <m>t_{df = 19}^{\star} = 2.093</m>, the confidence interval is (3.57, 5.63). We are 95\% confident that the average number of years a child takes piano lessons in this city is 3.57 to 5.63 years.</li>
+          <li>Using <m>SE = 0.4919</m> and <m>t_{df = 19}^{\star} = 2.093</m>, the confidence interval is (3.57, 5.63). We are 95% confident that the average number of years a child takes piano lessons in this city is 3.57 to 5.63 years.</li>
           <li>They agree, since we did not reject the null hypothesis and the null value of 5 was in the <m>t</m>-interval.</li>
         </ol>
       </p>
@@ -1527,7 +1564,7 @@
       <p>
         <ol marker="(a)">
           <li><m>SE = 1.23</m> and <m>t^{\star} = 1.65</m>. <m>2.9 \pm 1.65 \times 1.23 \to (0.87, 4.93)</m>.</li>
-          <li>We are 90\% confident that there was an increase of 0.87 to 4.93 in the average number of days that hit 90°{}F in 2018 relative to 1948 for NOAA stations.</li>
+          <li>We are 90% confident that there was an increase of 0.87 to 4.93 in the average number of days that hit 90°{}F in 2018 relative to 1948 for NOAA stations.</li>
           <li>Yes, since the interval lies entirely above 0.</li>
         </ol>
       </p>
@@ -1588,7 +1625,7 @@
     <solution>
       <title>Exercise 33</title>
       <p>
-        Difference we care about: 40. Single tail of 90\%: <m>1.28 \times SE</m>. Rejection region bounds: <m>\pm 1.96 \times SE</m> (if 5\% significance level). Setting <m>3.24 \times SE = 40</m>, subbing in <m>SE = \sqrt{\frac{94^2}{n} + \frac{94^2}{n}}</m>, and solving for the sample size <m>n</m> gives 116 plots of land for each fertilizer.
+        Difference we care about: 40. Single tail of 90%: <m>1.28 \times SE</m>. Rejection region bounds: <m>\pm 1.96 \times SE</m> (if 5% significance level). Setting <m>3.24 \times SE = 40</m>, subbing in <m>SE = \sqrt{\frac{94^2}{n} + \frac{94^2}{n}}</m>, and solving for the sample size <m>n</m> gives 116 plots of land for each fertilizer.
       </p>
     </solution>
 
@@ -1612,7 +1649,13 @@
         <ol marker="(a)">
           <li><m>H_0</m>: The population mean of MET for each group is equal to the others. <m>H_A</m>: At least one pair of means is different.</li>
           <li>Independence: We don't have any information on how the data were collected, so we cannot assess independence. To proceed, we must assume the subjects in each group are independent. In practice, we would inquire for more details. Normality: The data are bound below by zero and the standard deviations are larger than the means, indicating very strong skew. However, since the sample sizes are extremely large, even extreme skew is acceptable. Constant variance: This condition is sufficiently met, as the standard deviations are reasonably consistent across groups.</li>
-          <li>See below, with the last column omitted:[-2mm] \begin{adjustwidth}{-4em}{-4em} {\tiny \begin{center} \renewcommand{\arraystretch}{1.25} \begin{tabular}{lrrrr} \hline &amp; Df &amp; Sum Sq &amp; Mean Sq &amp; F value \hline coffee &amp; {\textcolor{oiB}{{\scriptsize 4}}} &amp; {\textcolor{oiB}{{\scriptsize 10508}}} &amp; {\textcolor{oiB}{{\scriptsize 2627}}} &amp; {\textcolor{oiB}{{\scriptsize 5.2}}} Residuals &amp; {\textcolor{oiB}{{\scriptsize 50734}}} &amp; 25564819 &amp; {\textcolor{oiB}{{\scriptsize 504}}} &amp; \hline Total &amp; {\textcolor{oiB}{{\scriptsize 50738}}} &amp; 25575327 \hline \end{tabular} \end{center} } \end{adjustwidth} \vspace{1mm}.</li>
+          <li><p>See below, with the last column omitted:</p>
+<tabular halign="center">
+<row header="yes" bottom="minor"><cell></cell><cell>Df</cell><cell>Sum Sq</cell><cell>Mean Sq</cell><cell>F value</cell></row>
+<row><cell>coffee</cell><cell>4</cell><cell>10508</cell><cell>2627</cell><cell>5.2</cell></row>
+<row><cell>Residuals</cell><cell>50734</cell><cell>25564819</cell><cell>504</cell><cell></cell></row>
+<row top="minor"><cell>Total</cell><cell>50738</cell><cell>25575327</cell><cell></cell><cell></cell></row>
+</tabular></li>
           <li>Since p-value is very small, reject <m>H_0</m>. The data provide convincing evidence that the average MET differs between at least one pair of groups.</li>
         </ol>
       </p>
@@ -1683,10 +1726,10 @@
       <title>Exercise 53</title>
       <p>
         <ol marker="(a)">
-          <li>We should set 1.0\% equal to 2.8 standard errors: <m>2.8 \times SE_{desired} = 1.0\%</m> (see Example \ref{sample_size_for_80_percent_power} on page \pageref{sample_size_for_80_percent_power} for details). This means the standard error should be about <m>SE = 0.36\%</m> to achieve the desired statistical power.</li>
+          <li>We should set 1.0% equal to 2.8 standard errors: <m>2.8 \times SE_{desired} = 1.0\%</m> (see <xref ref="sample_size_for_80_percent_power"/> for details). This means the standard error should be about <m>SE = 0.36\%</m> to achieve the desired statistical power.</li>
           <li>The margin of error was <m>0.5 \times (2.6\% - (-0.2\%)) = 1.4\%</m>, so the standard error in the experiment must have been <m>1.96 \times SE_{original} = 1.4\%</m> <m>\to</m> <m>SE_{original} = 0.71\%</m>.</li>
           <li>The standard error decreases with the square root of the sample size, so we should increase the sample size by a factor of <m>1.97^2 = 3.88</m>.</li>
-          <li>The team should run an experiment 3.88 times larger, so they should have a random sample of 3.88\% of their users in each of the experiment arms in the new experiment.</li>
+          <li>The team should run an experiment 3.88 times larger, so they should have a random sample of 3.88% of their users in each of the experiment arms in the new experiment.</li>
         </ol>
       </p>
     </solution>
@@ -1694,14 +1737,17 @@
     <solution>
       <title>Exercise 55</title>
       <p>
-        Independence: it is a random sample, so we can assume that the students in this sample are independent of each other with respect to number of exclusive relationships they have been in. Notice that there are no students who have had no exclusive relationships in the sample, which suggests some student responses are likely missing (perhaps only positive values were reported). The sample size is at least 30, and there are no particularly extreme outliers, so the normality condition is reasonable. 90\% CI: (2.97, 3.43). We are 90\% confident that undergraduate students have been in 2.97 to 3.43 exclusive relationships, on average.
+        Independence: it is a random sample, so we can assume that the students in this sample are independent of each other with respect to number of exclusive relationships they have been in. Notice that there are no students who have had no exclusive relationships in the sample, which suggests some student responses are likely missing (perhaps only positive values were reported). The sample size is at least 30, and there are no particularly extreme outliers, so the normality condition is reasonable. 90% CI: (2.97, 3.43). We are 90% confident that undergraduate students have been in 2.97 to 3.43 exclusive relationships, on average.
       </p>
     </solution>
 
     <solution>
       <title>Exercise 57</title>
       <p>
-        The hypotheses should be about the population mean (<m>\mu</m>), not the sample mean. The null hypothesis should have an equal sign and the alternative hypothesis should be about the null hypothesized value, not the observed sample mean. Correction: [Math: H_0&amp;: \mu = 10 hours H_A&amp;: \mu \neq 10 hours ] A two-sided test allows us to consider the possibility that the data show us something that we would find surprising.
+        The hypotheses should be about the population mean (<m>\mu</m>), not the sample mean. The null hypothesis should have an equal sign and the alternative hypothesis should be about the null hypothesized value, not the observed sample mean. Correction: <md>
+<mrow>H_0 \amp: \mu = 10\text{ hours}</mrow>
+<mrow>H_A \amp: \mu \neq 10\text{ hours}</mrow>
+</md> A two-sided test allows us to consider the possibility that the data show us something that we would find surprising.
       </p>
     </solution>
 
@@ -1827,7 +1873,7 @@
         <ol marker="(a)">
           <li>First calculate the slope: <m>b_1 = R\times s_y/s_x = 0.636 \times 113 / 99 = 0.726</m>. Next, make use of the fact that the regression line passes through the point <m>(\bar{x},\bar{y})</m>: <m>\bar{y} = b_0 + b_1 \times \bar{x}</m>. Plug in <m>\bar{x}</m>, <m>\bar{y}</m>, and <m>b_1</m>, and solve for <m>b_0</m>: 51. Solution: <m>\widehat{travel time} = 51 + 0.726 \times distance</m>.</li>
           <li><m>b_1</m>: For each additional mile in distance, the model predicts an additional 0.726 minutes in travel time. <m>b_0</m>: When the distance traveled is 0 miles, the travel time is expected to be 51 minutes. It does not make sense to have a travel distance of 0 miles in this context. Here, the <m>y</m>-intercept serves only to adjust the height of the line and is meaningless by itself.</li>
-          <li><m>R^2 = 0.636^2 = 0.40</m>. About 40\% of the variability in travel time is accounted for by the model, i.e. explained by the distance traveled.</li>
+          <li><m>R^2 = 0.636^2 = 0.40</m>. About 40% of the variability in travel time is accounted for by the model, i.e. explained by the distance traveled.</li>
           <li><m>\widehat{travel time} = 51 + 0.726 \times distance = 51 + 0.726 \times 103 \approx 126</m> minutes. (Note: we should be cautious in our predictions with this model since we have not yet evaluated whether it is a well-fit model.).</li>
           <li><m>e_i = y_i - \hat{y}_i = 168 - 126 = 42</m> minutes. A positive residual means that the model underestimates the travel time.</li>
           <li>No, this calculation would require extrapolation.</li>
@@ -1842,7 +1888,7 @@
           <li><m>\widehat{murder} = -29.901 + 2.559 \times poverty\%</m>.</li>
           <li>Expected murder rate in metropolitan areas with no poverty is -29. 901 per million. This is obviously not a meaningful value, it just serves to adjust the height of the regression line.</li>
           <li>For each additional percentage increase in poverty, we expect murders per million to be higher on average by 2.559.</li>
-          <li>Poverty level explains 70.52\% of the variability in murder rates in metropolitan areas.</li>
+          <li>Poverty level explains 70.52% of the variability in murder rates in metropolitan areas.</li>
           <li><m>\sqrt{0.7052} = 0.8398</m>.</li>
         </ol>
       </p>
@@ -1863,7 +1909,7 @@
       <title>Exercise 29</title>
       <p>
         <ol marker="(a)">
-          <li>There is a negative, moderate-to-strong, somewhat linear relationship between percent of families who own their home and the percent of the population living in urban areas in 2010. There is one outlier: a state where 100\% of the population is urban. The variability in the percent of homeownership also increases as we move from left to right in the plot.</li>
+          <li>There is a negative, moderate-to-strong, somewhat linear relationship between percent of families who own their home and the percent of the population living in urban areas in 2010. There is one outlier: a state where 100% of the population is urban. The variability in the percent of homeownership also increases as we move from left to right in the plot.</li>
           <li>The outlier is located in the bottom right corner, horizontally far from the center of the other points, so it is a point with high leverage. It is an influential point since excluding this point from the analysis would greatly affect the slope of the regression line.</li>
         </ol>
       </p>
@@ -1876,7 +1922,7 @@
           <li>The relationship is positive, moderate-to-strong, and linear. There are a few outliers but no points that appear to be influential.</li>
           <li><m>\widehat{weight} = -105.0113 + 1.0176 \times height</m>. Slope: For each additional centimeter in height, the model predicts the average weight to be 1.0176 additional kilograms (about 2.2 pounds). Intercept: People who are 0 centimeters tall are expected to weigh - 105.0113 kilograms. This is obviously not possible. Here, the <m>y</m>- intercept serves only to adjust the height of the line and is meaningless by itself.</li>
           <li><m>H_0</m>: The true slope coefficient of height is zero (<m>\beta_1 = 0</m>). <m>H_A</m>: The true slope coefficient of height is different than zero (<m>\beta_1 \neq 0</m>). The p-value for the two-sided alternative hypothesis (<m>\beta_1 \ne 0</m>) is incredibly small, so we reject <m>H_0</m>. The data provide convincing evidence that height and weight are positively correlated. The true slope parameter is indeed greater than 0.</li>
-          <li><m>R^2 = 0.72^2 = 0.52</m>. Approximately 52\% of the variability in weight can be explained by the height of individuals.</li>
+          <li><m>R^2 = 0.72^2 = 0.52</m>. Approximately 52% of the variability in weight can be explained by the height of individuals.</li>
         </ol>
       </p>
     </solution>
@@ -1959,7 +2005,7 @@
       <title>Exercise 1</title>
       <p>
         <ol marker="(a)">
-          <li><m>\widehat{baby\_\hspace{0.3mm}weight} = 123.05 - 8.94 \times smoke</m>.</li>
+          <li><m>\widehat{baby\_weight} = 123.05 - 8.94 \times smoke</m>.</li>
           <li>The estimated body weight of babies born to smoking mothers is 8.94 ounces lower than babies born to non-smoking mothers. Smoker: <m>123.05 - 8.94 \times 1 = 114.11</m> ounces. Non-smoker: <m>123.05 - 8.94 \times 0 = 123.05</m> ounces.</li>
           <li><m>H_0</m>: <m>\beta_1 = 0</m>. <m>H_A</m>: <m>\beta_1 \ne 0</m>. <m>T= -8.65</m>, and the p-value is approximately 0. Since the p-value is very small, we reject <m>H_0</m>. The data provide strong evidence that the true slope parameter is different than 0 and that there is an association between birth weight and smoking. Furthermore, having rejected <m>H_0</m>, we can conclude that smoking is associated with lower birth weights.</li>
         </ol>
@@ -1973,7 +2019,7 @@
           <li><m>\widehat{baby\_weight} = -80.41 + 0.44 \times gestation - 3.33 \times parity - 0.01 \times age + 1.15 \times height + 0.05 \times weight - 8.40 \times smoke</m>.</li>
           <li><m>\beta_{gestation}</m>: The model predicts a 0.44 ounce increase in the birth weight of the baby for each additional day of pregnancy, all else held constant. <m>\beta_{age}</m>: The model predicts a 0.01 ounce decrease in the birth weight of the baby for each additional year in mother's age, all else held constant.</li>
           <li>Parity might be correlated with one of the other variables in the model, which complicates model estimation.</li>
-          <li><m>\widehat{baby\_\hspace{0.3mm}weight} = 120.58</m>. <m>e = 120 - 120.58 = -0.58</m>. The model over-predicts this baby's birth weight.</li>
+          <li><m>\widehat{baby\_weight} = 120.58</m>. <m>e = 120 - 120.58 = -0.58</m>. The model over-predicts this baby's birth weight.</li>
           <li><m>R^2 = 0.2504</m>. <m>R_{adj}^2 = 0.2468</m>.</li>
         </ol>
       </p>
@@ -1983,7 +2029,7 @@
       <title>Exercise 5</title>
       <p>
         <ol marker="(a)">
-          <li>(-0.32, 0.16). We are 95\% confident that male students on average have GPAs 0.32 points lower to 0.16 points higher than females when controlling for the other variables in the model.</li>
+          <li>(-0.32, 0.16). We are 95% confident that male students on average have GPAs 0.32 points lower to 0.16 points higher than females when controlling for the other variables in the model.</li>
           <li>Yes, since the p-value is larger than 0.05 in all cases (not including the intercept).</li>
         </ol>
       </p>
@@ -2021,8 +2067,8 @@
       <title>Exercise 15</title>
       <p>
         <ol marker="(a)">
-          <li>There are a few potential outliers, e.g. on the left in the \var{total\_\hspace{0.3mm}length} variable, but nothing that will be of serious concern in a data set this large.</li>
-          <li>When coefficient estimates are sensitive to which variables are included in the model, this typically indicates that some variables are collinear. For example, a possum's gender may be related to its head length, which would explain why the coefficient (and p-value) for \var{sex\_\hspace{0.3mm}male} changed when we removed the \var{head\_\hspace{0.3mm}length} variable. Likewise, a possum's skull width is likely to be related to its head length, probably even much more closely related than the head length was to gender.</li>
+          <li>There are a few potential outliers, e.g. on the left in the <c>total_length</c> variable, but nothing that will be of serious concern in a data set this large.</li>
+          <li>When coefficient estimates are sensitive to which variables are included in the model, this typically indicates that some variables are collinear. For example, a possum's gender may be related to its head length, which would explain why the coefficient (and p-value) for <c>sex_male</c> changed when we removed the <c>head_length</c> variable. Likewise, a possum's skull width is likely to be related to its head length, probably even much more closely related than the head length was to gender.</li>
         </ol>
       </p>
     </solution>
@@ -2031,7 +2077,7 @@
       <title>Exercise 17</title>
       <p>
         <ol marker="(a)">
-          <li>The logistic model relating <m>\hat{p}_i</m> to the predictors may be written as <m>\log\left( \frac{\hat{p}_i}{1 - \hat{p}_i} \right) = 33.5095 - 1.4207\times sex\_male_i - 0.2787 \times skull\_width_i + 0.5687 \times total\_length_i - 1.8057 \times tail\_length_i</m>. Only \var{total\_\hspace{0.3mm}length} has a positive association with a possum being from Victoria.</li>
+          <li>The logistic model relating <m>\hat{p}_i</m> to the predictors may be written as <m>\log\left( \frac{\hat{p}_i}{1 - \hat{p}_i} \right) = 33.5095 - 1.4207\times sex\_male_i - 0.2787 \times skull\_width_i + 0.5687 \times total\_length_i - 1.8057 \times tail\_length_i</m>. Only <c>total_length</c> has a positive association with a possum being from Victoria.</li>
           <li><m>\hat{p} = 0.0062</m>. While the probability is very near zero, we have not run diagnostics on the model. We might also be a little skeptical that the model will remain accurate for a possum found in a US zoo. For example, perhaps the zoo selected a possum with specific characteristics but only looked in one region. On the other hand, it is encouraging that the possum was caught in the wild. (Answers regarding the reliability of the model probability will vary.).</li>
         </ol>
       </p>
@@ -2053,7 +2099,7 @@
       <title>Exercise 21</title>
       <p>
         <ol marker="(a)">
-          <li>\resp{exclaim\us{}subj} should be removed, since it's removal reduces AIC the most (and the resulting model has lower AIC than the None Dropped model).</li>
+          <li><c>exclaim_subj</c> should be removed, since it's removal reduces AIC the most (and the resulting model has lower AIC than the None Dropped model).</li>
           <li>Removing any variable will increase AIC, so we should not remove any variables from this set.</li>
         </ol>
       </p>
@@ -2063,9 +2109,20 @@
       <title>Exercise 23</title>
       <p>
         <ol marker="(a)">
-          <li>The equation is: [Math: \log\left(\frac{p_i}{1 - p_i}\right) &amp;= -0.8124 &amp;\quad- 2.6351 \times \resp{to\us{}multiple} &amp;\quad + 1.6272 \times \resp{winner} &amp;\quad- 1.5881 \times \resp{format} &amp;\quad - 3.0467 \times \resp{re\us{}subj} ].</li>
-          <li>First find <m>\log\left(\frac{p}{1 - p}\right)</m>, then solve for <m>p</m>: [Math: &amp;\log\left(\frac{p}{1 - p}\right) &amp;\quad= -0.8124 - 2.6351 \times 0 + 1.6272 \times 1 &amp;\qquad- 1.5881 \times 0 - 3.0467 \times 0 &amp;\quad= 0.8148 &amp;\frac{p}{1 - p} = e^{0.8148} \quad\to\quad p = 0.693 ].</li>
-          <li>It should probably be pretty high, since it could be very disruptive to the person using the email service if they are missing emails that aren't spam. Even only a 90\% chance that a message is spam is probably enough to warrant keeping it in the inbox. Maybe a probability of 99\% would be a reasonable cutoff. As for other ideas to make it even better, it may be worth building a second model that tries to classify the importance of an email message. If we have both the spam model and the importance model, we now have a better way to think about cost-benefit tradeoffs. For instance, perhaps we would be willing to have a lower probability-of-spam threshold for messages we were confident were not important, and perhaps we want an even higher probability threshold (e.g. 99.99\%) for emails we are pretty sure are important.</li>
+          <li>The equation is: <md>
+<mrow>\log\left(\frac{p_i}{1 - p_i}\right) \amp= -0.8124</mrow>
+<mrow>\amp\quad - 2.6351 \times \texttt{to\_multiple}</mrow>
+<mrow>\amp\quad + 1.6272 \times \texttt{winner}</mrow>
+<mrow>\amp\quad - 1.5881 \times \texttt{format}</mrow>
+<mrow>\amp\quad - 3.0467 \times \texttt{re\_subj}</mrow>
+</md>.</li>
+          <li>First find <m>\log\left(\frac{p}{1 - p}\right)</m>, then solve for <m>p</m>: <md>
+<mrow>\log\left(\frac{p}{1 - p}\right) \amp= -0.8124 - 2.6351 \times 0 + 1.6272 \times 1</mrow>
+<mrow>\amp\qquad - 1.5881 \times 0 - 3.0467 \times 0</mrow>
+<mrow>\amp= 0.8148</mrow>
+<mrow>\frac{p}{1 - p} \amp= e^{0.8148} \quad\to\quad p = 0.693</mrow>
+</md>.</li>
+          <li>It should probably be pretty high, since it could be very disruptive to the person using the email service if they are missing emails that aren't spam. Even only a 90% chance that a message is spam is probably enough to warrant keeping it in the inbox. Maybe a probability of 99% would be a reasonable cutoff. As for other ideas to make it even better, it may be worth building a second model that tries to classify the importance of an email message. If we have both the spam model and the importance model, we now have a better way to think about cost-benefit tradeoffs. For instance, perhaps we would be willing to have a lower probability-of-spam threshold for messages we were confident were not important, and perhaps we want an even higher probability threshold (e.g. 99.99%) for emails we are pretty sure are important.</li>
         </ol>
       </p>
     </solution>

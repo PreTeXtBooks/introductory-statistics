@@ -1397,7 +1397,7 @@
           <p>
             We can estimate this probability using the data. Of the 309 fashion photos, the ML algorithm 
             correctly classified 197 of the photos:
-            <me>P(\text{mach_learn is pred_fashion} \mid \text{truth is fashion}) = \frac{197}{309} = 0.638</me>
+            <me>P(\text{mach\_learn is pred\_fashion} \mid \text{truth is fashion}) = \frac{197}{309} = 0.638</me>
           </p>
         </solution>
       </example>
@@ -1413,7 +1413,7 @@
           <p>
             If the ML classifier suggests a photo is not about fashion, then it comes from the second row in 
             the data set. Of these 1603 photos, 112 were actually about fashion:
-            <me>P(\text{truth is fashion} \mid \text{mach_learn is pred_not}) = \frac{112}{1603} = 0.070</me>
+            <me>P(\text{truth is fashion} \mid \text{mach\_learn is pred\_not}) = \frac{112}{1603} = 0.070</me>
           </p>
         </solution>
       </example>
@@ -1428,9 +1428,9 @@
         for the sample, which are the probabilities based on a single variable without regard to any other 
         variables. For instance, a probability based solely on the <c>mach_learn</c> variable is a marginal 
         probability:
-        <me>P(\text{mach_learn is pred_fashion}) = \frac{219}{1822} = 0.12</me>
+        <me>P(\text{mach\_learn is pred\_fashion}) = \frac{219}{1822} = 0.12</me>
         A probability of outcomes for two or more variables or processes is called a <term>joint probability</term>:
-        <me>P(\text{mach_learn is pred_fashion and truth is fashion}) = \frac{197}{1822} = 0.11</me>
+        <me>P(\text{mach\_learn is pred\_fashion and truth is fashion}) = \frac{197}{1822} = 0.11</me>
         It is common to substitute a comma for <q>and</q> in a joint probability, although using either the 
         word <q>and</q> or a comma is acceptable.
       </p>
@@ -1531,8 +1531,8 @@
         probability a randomly selected photo from the data set is about fashion is found by summing the 
         outcomes where <c>truth</c> takes value <q>fashion</q>:
         <md>
-          <mrow>P(\text{truth is fashion}) \amp= P(\text{mach_learn is pred_fashion and truth is fashion})</mrow>
-          <mrow>\amp\quad + P(\text{mach_learn is pred_not and truth is fashion})</mrow>
+          <mrow>P(\text{truth is fashion}) \amp= P(\text{mach\_learn is pred\_fashion and truth is fashion})</mrow>
+          <mrow>\amp\quad + P(\text{mach\_learn is pred\_not and truth is fashion})</mrow>
           <mrow>\amp= 0.1081 + 0.0615 = 0.1696</mrow>
         </md>
       </p>
@@ -1553,7 +1553,7 @@
         estimate of the probability the photo is actually about fashion? Absolutely. To do so, we limit 
         our view to only those 219 cases where the ML classifier predicted that the photo was about 
         fashion and look at the fraction where the photo was actually about fashion:
-        <me>P(\text{truth is fashion} \mid \text{mach_learn is pred_fashion}) = \frac{197}{219} = 0.900</me>
+        <me>P(\text{truth is fashion} \mid \text{mach\_learn is pred\_fashion}) = \frac{197}{219} = 0.900</me>
         We call this a <term>conditional probability</term> because we computed the probability under a 
         condition: the ML classifier prediction said the photo was about fashion.
       </p>
@@ -1564,14 +1564,14 @@
         and this information usually can be described as a known outcome or event. We generally separate 
         the text inside our probability notation into the outcome of interest and the condition with a 
         vertical bar:
-        <me>P(\text{truth is fashion} \mid \text{mach_learn is pred_fashion}) = \frac{197}{219} = 0.900</me>
+        <me>P(\text{truth is fashion} \mid \text{mach\_learn is pred\_fashion}) = \frac{197}{219} = 0.900</me>
         The vertical bar <q><m>|</m></q> is read as <em>given</em>.
       </p>
 
       <p>
         In this equation, we computed the probability a photo was about fashion based on the condition that 
         the ML algorithm predicted it was about fashion as a fraction:
-        <me>\frac{\text{number of cases where truth is fashion and mach_learn is pred_fashion}}{\text{number of cases where mach_learn is pred_fashion}} = \frac{197}{219} = 0.900</me>
+        <me>\frac{\text{number of cases where truth is fashion and mach\_learn is pred\_fashion}}{\text{number of cases where mach\_learn is pred\_fashion}} = \frac{197}{219} = 0.900</me>
         We considered only those cases that met the condition (<c>mach_learn</c> is <q>pred_fashion</q>) and 
         then we computed the ratio of those cases that satisfied our outcome of interest (photo was actually 
         about fashion).
@@ -1592,7 +1592,7 @@
         our outcome of interest. Then the conditional probability can be computed as:
         <me>\frac{108}{120} = \frac{0.108}{0.120} = 0.90</me>
         Here we are examining exactly the fraction of two probabilities, 0.108 and 0.120, which we can write as:
-        <me>P(\text{truth is fashion and mach_learn is pred_fashion}) \quad\text{and}\quad P(\text{mach_learn is pred_fashion})</me>
+        <me>P(\text{truth is fashion and mach\_learn is pred\_fashion}) \quad\text{and}\quad P(\text{mach\_learn is pred\_fashion})</me>
         The fraction of these probabilities is an example of the general formula for conditional probability.
       </p>
 
@@ -1615,9 +1615,9 @@
         </statement>
         <solution>
           <p>
-            (a) <me>P(\text{mach_learn is pred_fashion} \mid \text{truth is fashion})</me>
+            (a) <me>P(\text{mach\_learn is pred\_fashion} \mid \text{truth is fashion})</me>
             (b) The equation for conditional probability indicates we should first find 
-            <m>P(\text{mach_learn is pred_fashion and truth is fashion}) = 0.1081</m> and 
+            <m>P(\text{mach\_learn is pred\_fashion and truth is fashion}) = 0.1081</m> and 
             <m>P(\text{truth is fashion}) = 0.1696</m>. Then the ratio represents the conditional probability: 
             <m>0.1081 / 0.1696 = 0.6374</m>.
           </p>
@@ -1634,7 +1634,7 @@
         </statement>
         <solution>
           <p>
-            (a) <me>P(\text{mach_learn is pred_not} \mid \text{truth is fashion}) = \frac{0.0615}{0.1696} = 0.3626</me>
+            (a) <me>P(\text{mach\_learn is pred\_not} \mid \text{truth is fashion}) = \frac{0.0615}{0.1696} = 0.3626</me>
             (b) The total equals 1. (c) Under the condition the photo is about fashion, the ML algorithm must 
             have either predicted it was about fashion or predicted it was not about fashion. The complement 
             still works for conditional probabilities, provided the probabilities are conditioned on the same 
